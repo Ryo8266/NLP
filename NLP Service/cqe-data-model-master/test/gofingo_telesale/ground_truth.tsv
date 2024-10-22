@@ -1,0 +1,442 @@
+file_name	criterion_name	audit_result	reason	group
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+1_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+1_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+1_Giải quyết từ chối_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Giải quyết từ chối_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Giải quyết từ chối_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1_Giải quyết từ chối_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Giải quyết từ chối_inb.mp3	Giải quyết từ chối (14%)	No_2	Không xử lý từ chối	Telesales
+1_Giải quyết từ chối_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Giải quyết từ chối_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Kết thúc cuộc gọi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Chào hỏi (2%)	No_1	Không giới thiệu tên công ty	Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Kiểm soát cảm xúc_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+1_Lắng nghe tích cực_inb.mp3	Chào hỏi (2%)	No_1	Không giới thiệu tên công ty	Telesales
+1_Lắng nghe tích cực_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Lắng nghe tích cực_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+1_Lắng nghe tích cực_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Lắng nghe tích cực_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+1_Lắng nghe tích cực_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Lắng nghe tích cực_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+1_Tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+1_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	No_1	Không giới thiệu tên công ty	Telesales
+1_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	No_1	Sử dụng câu hỏi đóng để xác định nhu cầu	Telesales
+1_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+1_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+1_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+2_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+2_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+2_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+2_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+2_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+2_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+2_Giải quyết từ chối_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Giải quyết từ chối_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Giải quyết từ chối_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+2_Giải quyết từ chối_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Giải quyết từ chối_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+2_Giải quyết từ chối_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Giải quyết từ chối_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Kiểm soát cảm xúc_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+2_Tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+2_Tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Tính chủ động_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+2_Tính chủ động_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+2_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+2_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+2_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+2_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Chào hỏi.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Chào hỏi.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Chào hỏi.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Chào hỏi.mp3	Bán sản phẩm/dịch vụ (16%)	Yes		Telesales
+3_Chào hỏi.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+3_Chào hỏi.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Chào hỏi.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Giải quyết từ chối_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Giải quyết từ chối_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Giải quyết từ chối_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Giải quyết từ chối_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Giải quyết từ chối_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+3_Giải quyết từ chối_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Giải quyết từ chối_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Kiểm soát cảm xúc.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Kiểm soát cảm xúc.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+3_Tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+3_Tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Tính chủ động_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+3_Tính chủ động_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+3_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+3_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	No_1	Sử dụng câu hỏi đóng để xác định nhu cầu	Telesales
+3_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+3_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+3_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+3_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+3_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Giải quyết từ chối (14%)	No_2	Không xử lý từ chối	Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Giải quyết từ chối_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Giải quyết từ chối_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Giải quyết từ chối_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+4_Giải quyết từ chối_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Giải quyết từ chối_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+4_Giải quyết từ chối_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Giải quyết từ chối_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Kiểm soát cảm xúc_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+4_Tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+4_Tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+4_Tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Tính chủ động_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Tính chủ động_inb.mp3	Tính chủ động (10%)	No_1	Không chủ đông cung cấp thông tin số tiền tối đa	Telesales
+4_Tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+4_Xác định nhu cầu.mp3	Chào hỏi (2%)	Yes		Telesales
+4_Xác định nhu cầu.mp3	Xác định nhu cầu (8%)	No_1	Sử dụng câu hỏi đóng để xác định nhu cầu	Telesales
+4_Xác định nhu cầu.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+4_Xác định nhu cầu.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+4_Xác định nhu cầu.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+4_Xác định nhu cầu.mp3	Tính chủ động (10%)	Yes		Telesales
+4_Xác định nhu cầu.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+5_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+5_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+5_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Chào hỏi (2%)	No_1	Không giới thiệu tên công ty	Telesales
+5_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+5_Giải quyết từ chối_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5_Giải quyết từ chối_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5_Giải quyết từ chối_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+5_Giải quyết từ chối_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5_Giải quyết từ chối_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+5_Giải quyết từ chối_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Giải quyết từ chối_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5_Tính chủ động_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+5_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+5_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	No_1	Sử dụng câu hỏi đóng để xác định nhu cầu	Telesales
+5_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+5_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+5_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+5_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+5_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Giải quyết từ chối (14%)	No_1	Không xử lý từ chối đủ 3 lần	Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+6_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+6_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+6_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+6_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+6_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+6_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+6_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+6_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+6_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+6_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+6_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	No_1	Không chủ động cung cấp thông tin thời hạn tối đa	Telesales
+6_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+7_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+7_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+7_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+7_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+7_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+7_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+7_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+7_Chào hỏi.mp3	Chào hỏi (2%)	Yes		Telesales
+7_Chào hỏi.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+7_Chào hỏi.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+7_Chào hỏi.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+7_Chào hỏi.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+7_Chào hỏi.mp3	Tính chủ động (10%)	Yes		Telesales
+7_Chào hỏi.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+7_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+7_Xác định nhu cầu_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+7_Xác định nhu cầu_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+7_Xác định nhu cầu_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+7_Xác định nhu cầu_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+7_Xác định nhu cầu_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+7_Xác định nhu cầu_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+7_Xác định nhu cầu_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+8_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+8_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+8_Chào hỏi.mp3	Chào hỏi (2%)	Yes		Telesales
+8_Chào hỏi.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+8_Chào hỏi.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+8_Chào hỏi.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+8_Chào hỏi.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+8_Chào hỏi.mp3	Tính chủ động (10%)	Yes		Telesales
+8_Chào hỏi.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+8_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+9_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+9_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+9_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+9_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+9_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales
+10_Bán sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+10_Bán sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+10_Bán sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+10_Bán sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+10_Bán sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+10_Bán sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+10_Bán sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+10_Chào hỏi_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+10_Chào hỏi_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+10_Chào hỏi_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+10_Chào hỏi_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+10_Chào hỏi_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+10_Chào hỏi_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+10_Chào hỏi_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin khoản vay	Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+10_Giới thiệu sản phẩm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Giải quyết từ chối (14%)	No_1	Xử lý không đúng trọng tâm	Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+1. 937452088 - XLTC, bán sản phẩm, tính chủ động_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Chào hỏi (2%)	No_1	Không giới thiệu tên công ty	Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Giới thiệu sản phẩm (20%)	No_1	Không cung cấp thông tin ưu điểm khoản vay	Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Giải quyết từ chối (14%)	No_1	Xử lý không đúng trọng tâm	Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+2_0978237458_XLTC sai trọng tâm_inb.mp3	Kết thúc cuộc trò chuyện (4%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Chào hỏi (2%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Xác định nhu cầu (8%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Giới thiệu sản phẩm (20%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Bán sản phẩm/dịch vụ (16%)	No_1	Không bán được sản phẩm/dịch vụ (trừ 50% điểm tiêu chí)	Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Giải quyết từ chối (14%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Tính chủ động (10%)	Yes		Telesales
+7. 0857044244 - Xúc phạm KH_inb.mp3	Kết thúc cuộc trò chuyện (4%)	No_1	Không chào và cám ơn khi kết thúc trò chuyện	Telesales

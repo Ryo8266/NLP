@@ -1,0 +1,1996 @@
+file_name,criterion_name,audit_result,reason,group
+1_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+1_Willpay_outb.mp3,Identification of client,Yes,,Collection
+1_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+1_Willpay_outb.mp3,Will you pay,Yes,,Collection
+1_Willpay_outb.mp3,When,Yes,,Collection
+1_Willpay_outb.mp3,How much,Yes,,Collection
+1_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+1_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+1_Willpay_outb.mp3,Contain all information,Yes,,Collection
+1_Willpay_outb.mp3,Summary structure,Yes,,Collection
+1_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+1_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+1_Willpay_outb.mp3,Communication skill,No,Nhấn giọng,Collection
+1_Willpay_outb.mp3,Attitude,Yes,,Collection
+1_Willpay_outb.mp3,Call Result,Willpay,,Collection
+2_Willpay.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2_Willpay.mp3,Identification of client,Yes,,Collection
+2_Willpay.mp3,Reason of the call,Yes,,Collection
+2_Willpay.mp3,Will you pay,Yes,,Collection
+2_Willpay.mp3,When,Yes,,Collection
+2_Willpay.mp3,How much,Yes,,Collection
+2_Willpay.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2_Willpay.mp3,Payment receipt,N/A,,Collection
+2_Willpay.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+2_Willpay.mp3,Summary structure,Yes,,Collection
+2_Willpay.mp3,OH1 handle,N/A,,Collection
+2_Willpay.mp3,OH2 handle,N/A,,Collection
+2_Willpay.mp3,Communication skill,Yes,,Collection
+2_Willpay.mp3,Attitude,Yes,,Collection
+2_Willpay.mp3,Call Result,Willpay,,Collection
+3_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+3_outb.mp3,Identification of client,Yes,,Collection
+3_outb.mp3,Reason of the call,Yes,,Collection
+3_outb.mp3,Will you pay,Yes,,Collection
+3_outb.mp3,When,Yes,,Collection
+3_outb.mp3,How much,Yes,,Collection
+3_outb.mp3,Where,Yes,,Collection
+3_outb.mp3,Payment receipt,N/A,,Collection
+3_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+3_outb.mp3,Summary structure,Yes,,Collection
+3_outb.mp3,OH1 handle,N/A,,Collection
+3_outb.mp3,OH2 handle,N/A,,Collection
+3_outb.mp3,Communication skill,Yes,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+3_outb.mp3,Attitude,Yes,,Collection
+3_outb.mp3,Call Result,Willpay,,Collection
+4_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+4_outb.mp3,Identification of client,Yes,,Collection
+4_outb.mp3,Reason of the call,Yes,,Collection
+4_outb.mp3,Will you pay,Yes,,Collection
+4_outb.mp3,When,Yes,,Collection
+4_outb.mp3,How much,Yes,,Collection
+4_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+4_outb.mp3,Payment receipt,N/A,,Collection
+4_outb.mp3,Contain all information,Yes,,Collection
+4_outb.mp3,Summary structure,Yes,,Collection
+4_outb.mp3,OH1 handle,Yes,,Collection
+4_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+4_outb.mp3,Communication skill,Yes,,Collection
+4_outb.mp3,Attitude,Yes,,Collection
+4_outb.mp3,Call Result,Willpay,,Collection
+5_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+5_outb.mp3,Identification of client,Yes,,Collection
+5_outb.mp3,Reason of the call,Yes,,Collection
+5_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+5_outb.mp3,When,Yes,,Collection
+5_outb.mp3,How much,Yes,,Collection
+5_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+5_outb.mp3,Payment receipt,N/A,,Collection
+5_outb.mp3,Contain all information,Yes,,Collection
+5_outb.mp3,Summary structure,Yes,,Collection
+5_outb.mp3,OH1 handle,N/A,,Collection
+5_outb.mp3,OH2 handle,N/A,,Collection
+5_outb.mp3,Communication skill,Yes,,Collection
+5_outb.mp3,Attitude,Yes,,Collection
+5_outb.mp3,Call Result,Willpay,,Collection
+6_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+6_outb.mp3,Identification of client,Yes,,Collection
+6_outb.mp3,Reason of the call,Yes,,Collection
+6_outb.mp3,Will you pay,Yes,,Collection
+6_outb.mp3,When,Yes,,Collection
+6_outb.mp3,How much,Yes,,Collection
+6_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+6_outb.mp3,Payment receipt,N/A,,Collection
+6_outb.mp3,Contain all information,Yes,,Collection
+6_outb.mp3,Summary structure,Yes,,Collection
+6_outb.mp3,OH1 handle,N/A,,Collection
+6_outb.mp3,OH2 handle,N/A,,Collection
+6_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+6_outb.mp3,Attitude,Yes,,Collection
+6_outb.mp3,Call Result,Willpay,,Collection
+7_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+7_outb.mp3,Identification of client,Yes,,Collection
+7_outb.mp3,Reason of the call,Yes,,Collection
+7_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+7_outb.mp3,When,Yes,,Collection
+7_outb.mp3,How much,Yes,,Collection
+7_outb.mp3,Where,Yes,,Collection
+7_outb.mp3,Payment receipt,N/A,,Collection
+7_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+7_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+7_outb.mp3,OH1 handle,N/A,,Collection
+7_outb.mp3,OH2 handle,N/A,,Collection
+7_outb.mp3,Communication skill,Yes,,Collection
+7_outb.mp3,Attitude,Yes,,Collection
+7_outb.mp3,Call Result,Willpay,,Collection
+8_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+8_outb.mp3,Identification of client,Yes,,Collection
+8_outb.mp3,Reason of the call,Yes,,Collection
+8_outb.mp3,Will you pay,Yes,,Collection
+8_outb.mp3,When,Yes,,Collection
+8_outb.mp3,How much,Yes,,Collection
+8_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+8_outb.mp3,Payment receipt,N/A,,Collection
+8_outb.mp3,Contain all information,Yes,,Collection
+8_outb.mp3,Summary structure,Yes,,Collection
+8_outb.mp3,OH1 handle,N/A,,Collection
+8_outb.mp3,OH2 handle,N/A,,Collection
+8_outb.mp3,Communication skill,Yes,,Collection
+8_outb.mp3,Attitude,Yes,,Collection
+8_outb.mp3,Call Result,Willpay,,Collection
+9_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+9_outb.mp3,Identification of client,Yes,,Collection
+9_outb.mp3,Reason of the call,Yes,,Collection
+9_outb.mp3,Will you pay,Yes,,Collection
+9_outb.mp3,When,Yes,,Collection
+9_outb.mp3,How much,Yes,,Collection
+9_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+9_outb.mp3,Payment receipt,N/A,,Collection
+9_outb.mp3,Contain all information,Yes,,Collection
+9_outb.mp3,Summary structure,Yes,,Collection
+9_outb.mp3,OH1 handle,N/A,,Collection
+9_outb.mp3,OH2 handle,N/A,,Collection
+9_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+9_outb.mp3,Attitude,Yes,,Collection
+9_outb.mp3,Call Result,Willpay,,Collection
+10_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+10_Willpay_outb.mp3,Identification of client,Yes,,Collection
+10_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+10_Willpay_outb.mp3,Will you pay,N/A,,Collection
+10_Willpay_outb.mp3,When,Yes,,Collection
+10_Willpay_outb.mp3,How much,Yes,,Collection
+10_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+10_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+10_Willpay_outb.mp3,Contain all information,Yes,,Collection
+10_Willpay_outb.mp3,Summary structure,Yes,,Collection
+10_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+10_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+10_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+10_Willpay_outb.mp3,Attitude,Yes,,Collection
+10_Willpay_outb.mp3,Call Result,Willpay,,Collection
+11_Willpay_outb.mp3,Greeting,Yes,,Collection
+11_Willpay_outb.mp3,Identification of client,Yes,,Collection
+11_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+11_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+11_Willpay_outb.mp3,When,Yes,,Collection
+11_Willpay_outb.mp3,How much,Yes,,Collection
+11_Willpay_outb.mp3,Where,Yes,,Collection
+11_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+11_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+11_Willpay_outb.mp3,Summary structure,Yes,,Collection
+11_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+11_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+11_Willpay_outb.mp3,Communication skill,Yes,,Collection
+11_Willpay_outb.mp3,Attitude,Yes,,Collection
+11_Willpay_outb.mp3,Call Result,Willpay,,Collection
+12_Willpay_outb.mp3,Greeting,Yes,,Collection
+12_Willpay_outb.mp3,Identification of client,Yes,,Collection
+12_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+12_Willpay_outb.mp3,Will you pay,Yes,,Collection
+12_Willpay_outb.mp3,When,Yes,,Collection
+12_Willpay_outb.mp3,How much,Yes,,Collection
+12_Willpay_outb.mp3,Where,Yes,,Collection
+12_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+12_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+12_Willpay_outb.mp3,Summary structure,Yes,,Collection
+12_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+12_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+12_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+12_Willpay_outb.mp3,Attitude,Yes,,Collection
+12_Willpay_outb.mp3,Call Result,Willpay,,Collection
+13_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+13_Willpay_outb.mp3,Identification of client,Yes,,Collection
+13_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+13_Willpay_outb.mp3,Will you pay,Yes,,Collection
+13_Willpay_outb.mp3,When,Yes,,Collection
+13_Willpay_outb.mp3,How much,Yes,,Collection
+13_Willpay_outb.mp3,Where,Yes,,Collection
+13_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+13_Willpay_outb.mp3,Contain all information,Yes,,Collection
+13_Willpay_outb.mp3,Summary structure,Yes,,Collection
+13_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+13_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+13_Willpay_outb.mp3,Communication skill,Yes,,Collection
+13_Willpay_outb.mp3,Attitude,Yes,,Collection
+13_Willpay_outb.mp3,Call Result,Willpay,,Collection
+14_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+14_Willpay_outb.mp3,Identification of client,Yes,,Collection
+14_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+14_Willpay_outb.mp3,Will you pay,Yes,,Collection
+14_Willpay_outb.mp3,When,Yes,,Collection
+14_Willpay_outb.mp3,How much,Yes,,Collection
+14_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+14_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+14_Willpay_outb.mp3,Contain all information,Yes,,Collection
+14_Willpay_outb.mp3,Summary structure,Yes,,Collection
+14_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+14_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+14_Willpay_outb.mp3,Communication skill,Yes,,Collection
+14_Willpay_outb.mp3,Attitude,Yes,,Collection
+14_Willpay_outb.mp3,Call Result,Willpay,,Collection
+15_Nopay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+15_Nopay_outb.mp3,Identification of client,Yes,,Collection
+15_Nopay_outb.mp3,Reason of the call,Yes,,Collection
+15_Nopay_outb.mp3,Will you pay,Yes,,Collection
+15_Nopay_outb.mp3,When,N/A,,Collection
+15_Nopay_outb.mp3,How much,N/A,,Collection
+15_Nopay_outb.mp3,Where,N/A,,Collection
+15_Nopay_outb.mp3,Payment receipt,N/A,,Collection
+15_Nopay_outb.mp3,Contain all information,Partially,Thiếu liên hệ hotline,Collection
+15_Nopay_outb.mp3,Summary structure,Yes,,Collection
+15_Nopay_outb.mp3,OH1 handle,Yes,,Collection
+15_Nopay_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+15_Nopay_outb.mp3,Communication skill,No,Nhấn giọng,Collection
+15_Nopay_outb.mp3,Attitude,Yes,,Collection
+15_Nopay_outb.mp3,Call Result,Nopay,,Collection
+16_Paid_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+16_Paid_outb.mp3,Identification of client,Yes,,Collection
+16_Paid_outb.mp3,Reason of the call,Yes,,Collection
+16_Paid_outb.mp3,Will you pay,Yes,,Collection
+16_Paid_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+16_Paid_outb.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+16_Paid_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+16_Paid_outb.mp3,Payment receipt,No,Không hỏi thông tin biên lai theo quy định,Collection
+16_Paid_outb.mp3,Contain all information,No,Thiếu thông báo tình trạng chưa nhận được tiền;#Thiếu kiểm tra / giữ biên lai,Collection
+16_Paid_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+16_Paid_outb.mp3,OH1 handle,N/A,,Collection
+16_Paid_outb.mp3,OH2 handle,N/A,,Collection
+16_Paid_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+16_Paid_outb.mp3,Attitude,Yes,,Collection
+16_Paid_outb.mp3,Call Result,Paid,,Collection
+17_Willpay_outb.mp3,Greeting,Yes,,Collection
+17_Willpay_outb.mp3,Identification of client,Yes,,Collection
+17_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+17_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+17_Willpay_outb.mp3,When,Yes,,Collection
+17_Willpay_outb.mp3,How much,Yes,,Collection
+17_Willpay_outb.mp3,Where,Yes,,Collection
+17_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+17_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+17_Willpay_outb.mp3,Summary structure,Yes,,Collection
+17_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+17_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+17_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Chen ngang khi KH đang nói",Collection
+17_Willpay_outb.mp3,Attitude,Yes,,Collection
+17_Willpay_outb.mp3,Call Result,Willpay,,Collection
+18_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+18_Willpay_outb.mp3,Identification of client,Yes,,Collection
+18_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+18_Willpay_outb.mp3,Will you pay,Yes,,Collection
+18_Willpay_outb.mp3,When,Yes,,Collection
+18_Willpay_outb.mp3,How much,Yes,,Collection
+18_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+18_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+18_Willpay_outb.mp3,Contain all information,Yes,,Collection
+18_Willpay_outb.mp3,Summary structure,Yes,,Collection
+18_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+18_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+18_Willpay_outb.mp3,Communication skill,Yes,,Collection
+18_Willpay_outb.mp3,Attitude,Yes,,Collection
+18_Willpay_outb.mp3,Call Result,Willpay,,Collection
+20_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+20_Willpay_outb.mp3,Identification of client,Yes,,Collection
+20_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+20_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+20_Willpay_outb.mp3,When,Yes,,Collection
+20_Willpay_outb.mp3,How much,Yes,,Collection
+20_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+20_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+20_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+20_Willpay_outb.mp3,Summary structure,Yes,,Collection
+20_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+20_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+20_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+20_Willpay_outb.mp3,Attitude,Yes,,Collection
+20_Willpay_outb.mp3,Call Result,Willpay,,Collection
+21_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+21_Willpay_outb.mp3,Identification of client,Yes,,Collection
+21_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu số tiền cung cấp cho KH,Collection
+21_Willpay_outb.mp3,Will you pay,Yes,,Collection
+21_Willpay_outb.mp3,When,Yes,,Collection
+21_Willpay_outb.mp3,How much,Yes,,Collection
+21_Willpay_outb.mp3,Where,Yes,,Collection
+21_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+21_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+21_Willpay_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+21_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+21_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+21_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+21_Willpay_outb.mp3,Attitude,Yes,,Collection
+21_Willpay_outb.mp3,Call Result,Willpay,,Collection
+23_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+23_Willpay_outb.mp3,Identification of client,Yes,,Collection
+23_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+23_Willpay_outb.mp3,Will you pay,Yes,,Collection
+23_Willpay_outb.mp3,When,Yes,,Collection
+23_Willpay_outb.mp3,How much,Yes,,Collection
+23_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+23_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+23_Willpay_outb.mp3,Contain all information,Yes,,Collection
+23_Willpay_outb.mp3,Summary structure,Yes,,Collection
+23_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+23_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+23_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+23_Willpay_outb.mp3,Attitude,Yes,,Collection
+23_Willpay_outb.mp3,Call Result,Willpay,,Collection
+24_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+24_Willpay_outb.mp3,Identification of client,Yes,,Collection
+24_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD,Collection
+24_Willpay_outb.mp3,Will you pay,Yes,,Collection
+24_Willpay_outb.mp3,When,Yes,,Collection
+24_Willpay_outb.mp3,How much,Yes,,Collection
+24_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+24_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+24_Willpay_outb.mp3,Contain all information,Yes,,Collection
+24_Willpay_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+24_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+24_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+24_Willpay_outb.mp3,Communication skill,Yes,,Collection
+24_Willpay_outb.mp3,Attitude,Yes,,Collection
+24_Willpay_outb.mp3,Call Result,Willpay,,Collection
+25_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+25_Willpay_outb.mp3,Identification of client,Yes,,Collection
+25_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+25_Willpay_outb.mp3,Will you pay,Yes,,Collection
+25_Willpay_outb.mp3,When,Yes,,Collection
+25_Willpay_outb.mp3,How much,Yes,,Collection
+25_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+25_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+25_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+25_Willpay_outb.mp3,Summary structure,Yes,,Collection
+25_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+25_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+25_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+25_Willpay_outb.mp3,Attitude,Yes,,Collection
+25_Willpay_outb.mp3,Call Result,Willpay,,Collection
+26_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+26_Willpay_outb.mp3,Identification of client,Yes,,Collection
+26_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+26_Willpay_outb.mp3,Will you pay,Yes,,Collection
+26_Willpay_outb.mp3,When,Yes,,Collection
+26_Willpay_outb.mp3,How much,Yes,,Collection
+26_Willpay_outb.mp3,Where,Yes,,Collection
+26_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+26_Willpay_outb.mp3,Contain all information,Yes,,Collection
+26_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+26_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+26_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+26_Willpay_outb.mp3,Communication skill,Yes,,Collection
+26_Willpay_outb.mp3,Attitude,Yes,,Collection
+26_Willpay_outb.mp3,Call Result,Willpay,,Collection
+27_Willpay_outb.mp3,Greeting,Yes,,Collection
+27_Willpay_outb.mp3,Identification of client,Yes,,Collection
+27_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+27_Willpay_outb.mp3,Will you pay,Yes,,Collection
+27_Willpay_outb.mp3,When,Yes,,Collection
+27_Willpay_outb.mp3,How much,Yes,,Collection
+27_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+27_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+27_Willpay_outb.mp3,Contain all information,Yes,,Collection
+27_Willpay_outb.mp3,Summary structure,Yes,,Collection
+27_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+27_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+27_Willpay_outb.mp3,Communication skill,Yes,,Collection
+27_Willpay_outb.mp3,Attitude,Yes,,Collection
+27_Willpay_outb.mp3,Call Result,Willpay,,Collection
+28_Nopay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+28_Nopay_outb.mp3,Identification of client,Yes,,Collection
+28_Nopay_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+28_Nopay_outb.mp3,Will you pay,Yes,,Collection
+28_Nopay_outb.mp3,When,N/A,,Collection
+28_Nopay_outb.mp3,How much,N/A,,Collection
+28_Nopay_outb.mp3,Where,N/A,,Collection
+28_Nopay_outb.mp3,Payment receipt,N/A,,Collection
+28_Nopay_outb.mp3,Contain all information,No,Thiếu lưu ý về tình trạng hợp đồng;#Thiếu hướng dẫn client thanh toán sớm số tiền cần thanh toán;#Thiếu motivation;#Thiếu liên hệ hotline,Collection
+28_Nopay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+28_Nopay_outb.mp3,OH1 handle,No,Thiếu mục tiêu theo quy định cho group M1B,Collection
+28_Nopay_outb.mp3,OH2 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+28_Nopay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+28_Nopay_outb.mp3,Attitude,Yes,,Collection
+28_Nopay_outb.mp3,Call Result,Nopay,,Collection
+29_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+29_outb.mp3,Identification of client,Yes,,Collection
+29_outb.mp3,Reason of the call,Yes,,Collection
+29_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+29_outb.mp3,When,Yes,,Collection
+29_outb.mp3,How much,Yes,,Collection
+29_outb.mp3,Where,Yes,,Collection
+29_outb.mp3,Payment receipt,N/A,,Collection
+29_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+29_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+29_outb.mp3,OH1 handle,N/A,,Collection
+29_outb.mp3,OH2 handle,N/A,,Collection
+29_outb.mp3,Communication skill,No,Nhấn giọng,Collection
+29_outb.mp3,Attitude,Yes,,Collection
+29_outb.mp3,Call Result,Willpay,,Collection
+30_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+30_outb.mp3,Identification of client,Yes,,Collection
+30_outb.mp3,Reason of the call,Yes,,Collection
+30_outb.mp3,Will you pay,Yes,,Collection
+30_outb.mp3,When,Yes,,Collection
+30_outb.mp3,How much,Yes,,Collection
+30_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+30_outb.mp3,Payment receipt,N/A,,Collection
+30_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+30_outb.mp3,Summary structure,Yes,,Collection
+30_outb.mp3,OH1 handle,Yes,,Collection
+30_outb.mp3,OH2 handle,Yes,,Collection
+30_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+30_outb.mp3,Attitude,Yes,,Collection
+30_outb.mp3,Call Result,Willpay,,Collection
+31_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+31_outb.mp3,Identification of client,No,Thiếu ý - Không xác định họ tên,Collection
+31_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+31_outb.mp3,Will you pay,N/A,,Collection
+31_outb.mp3,When,Yes,,Collection
+31_outb.mp3,How much,Yes,,Collection
+31_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+31_outb.mp3,Payment receipt,N/A,,Collection
+31_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+31_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+31_outb.mp3,OH1 handle,N/A,,Collection
+31_outb.mp3,OH2 handle,N/A,,Collection
+31_outb.mp3,Communication skill,Yes,,Collection
+31_outb.mp3,Attitude,Yes,,Collection
+31_outb.mp3,Call Result,Willpay,,Collection
+33_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+33_outb.mp3,Identification of client,Yes,,Collection
+33_outb.mp3,Reason of the call,Yes,,Collection
+33_outb.mp3,Will you pay,Yes,,Collection
+33_outb.mp3,When,Yes,,Collection
+33_outb.mp3,How much,Yes,,Collection
+33_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+33_outb.mp3,Payment receipt,N/A,,Collection
+33_outb.mp3,Contain all information,Yes,,Collection
+33_outb.mp3,Summary structure,Yes,,Collection
+33_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+33_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+33_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+33_outb.mp3,Attitude,Yes,,Collection
+33_outb.mp3,Call Result,Willpay,,Collection
+34_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+34_outb.mp3,Identification of client,Yes,,Collection
+34_outb.mp3,Reason of the call,Yes,,Collection
+34_outb.mp3,Will you pay,Yes,,Collection
+34_outb.mp3,When,Yes,,Collection
+34_outb.mp3,How much,Yes,,Collection
+34_outb.mp3,Where,Yes,,Collection
+34_outb.mp3,Payment receipt,N/A,,Collection
+34_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+34_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+34_outb.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+34_outb.mp3,OH2 handle,Yes,,Collection
+34_outb.mp3,Communication skill,No,Nhấn giọng,Collection
+34_outb.mp3,Attitude,Yes,,Collection
+34_outb.mp3,Call Result,Willpay,,Collection
+35_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+35_outb.mp3,Identification of client,Yes,,Collection
+35_outb.mp3,Reason of the call,Yes,,Collection
+35_outb.mp3,Will you pay,Yes,,Collection
+35_outb.mp3,When,Yes,,Collection
+35_outb.mp3,How much,Yes,,Collection
+35_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+35_outb.mp3,Payment receipt,N/A,,Collection
+35_outb.mp3,Contain all information,Yes,,Collection
+35_outb.mp3,Summary structure,Yes,,Collection
+35_outb.mp3,OH1 handle,N/A,,Collection
+35_outb.mp3,OH2 handle,N/A,,Collection
+35_outb.mp3,Communication skill,Yes,,Collection
+35_outb.mp3,Attitude,Yes,,Collection
+35_outb.mp3,Call Result,Willpay,,Collection
+36_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+36_outb.mp3,Identification of client,Yes,,Collection
+36_outb.mp3,Reason of the call,Yes,,Collection
+36_outb.mp3,Will you pay,Yes,,Collection
+36_outb.mp3,When,Yes,,Collection
+36_outb.mp3,How much,Yes,,Collection
+36_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+36_outb.mp3,Payment receipt,N/A,,Collection
+36_outb.mp3,Contain all information,Yes,,Collection
+36_outb.mp3,Summary structure,Yes,,Collection
+36_outb.mp3,OH1 handle,N/A,,Collection
+36_outb.mp3,OH2 handle,N/A,,Collection
+36_outb.mp3,Communication skill,Yes,,Collection
+36_outb.mp3,Attitude,Yes,,Collection
+36_outb.mp3,Call Result,Willpay,,Collection
+37_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+37_outb.mp3,Identification of client,Yes,,Collection
+37_outb.mp3,Reason of the call,Yes,,Collection
+37_outb.mp3,Will you pay,Yes,,Collection
+37_outb.mp3,When,Yes,,Collection
+37_outb.mp3,How much,Yes,,Collection
+37_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+37_outb.mp3,Payment receipt,N/A,,Collection
+37_outb.mp3,Contain all information,Yes,,Collection
+37_outb.mp3,Summary structure,Yes,,Collection
+37_outb.mp3,OH1 handle,Yes,,Collection
+37_outb.mp3,OH2 handle,Yes,,Collection
+37_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+37_outb.mp3,Attitude,Yes,,Collection
+37_outb.mp3,Call Result,Willpay,,Collection
+38_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+38_outb.mp3,Identification of client,Yes,,Collection
+38_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+38_outb.mp3,Will you pay,N/A,,Collection
+38_outb.mp3,When,Yes,,Collection
+38_outb.mp3,How much,Yes,,Collection
+38_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+38_outb.mp3,Payment receipt,N/A,,Collection
+38_outb.mp3,Contain all information,Yes,,Collection
+38_outb.mp3,Summary structure,Yes,,Collection
+38_outb.mp3,OH1 handle,N/A,,Collection
+38_outb.mp3,OH2 handle,N/A,,Collection
+38_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+38_outb.mp3,Attitude,Yes,,Collection
+38_outb.mp3,Call Result,Willpay,,Collection
+39_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+39_outb.mp3,Identification of client,Yes,,Collection
+39_outb.mp3,Reason of the call,Yes,,Collection
+39_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+39_outb.mp3,When,Yes,,Collection
+39_outb.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+39_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+39_outb.mp3,Payment receipt,N/A,,Collection
+39_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+39_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+39_outb.mp3,OH1 handle,N/A,,Collection
+39_outb.mp3,OH2 handle,N/A,,Collection
+39_outb.mp3,Communication skill,Yes,,Collection
+39_outb.mp3,Attitude,Yes,,Collection
+39_outb.mp3,Call Result,Willpay,,Collection
+40_outb.mp3,Greeting,Yes,,Collection
+40_outb.mp3,Identification of client,Yes,,Collection
+40_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD,Collection
+40_outb.mp3,Will you pay,Yes,,Collection
+40_outb.mp3,When,Yes,,Collection
+40_outb.mp3,How much,Yes,,Collection
+40_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+40_outb.mp3,Payment receipt,N/A,,Collection
+40_outb.mp3,Contain all information,Yes,,Collection
+40_outb.mp3,Summary structure,Yes,,Collection
+40_outb.mp3,OH1 handle,N/A,,Collection
+40_outb.mp3,OH2 handle,N/A,,Collection
+40_outb.mp3,Communication skill,Yes,,Collection
+40_outb.mp3,Attitude,Yes,,Collection
+40_outb.mp3,Call Result,Willpay,,Collection
+41_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+41_outb.mp3,Identification of client,Yes,,Collection
+41_outb.mp3,Reason of the call,Yes,,Collection
+41_outb.mp3,Will you pay,Yes,,Collection
+41_outb.mp3,When,Yes,,Collection
+41_outb.mp3,How much,Yes,,Collection
+41_outb.mp3,Where,Yes,,Collection
+41_outb.mp3,Payment receipt,N/A,,Collection
+41_outb.mp3,Contain all information,Yes,,Collection
+41_outb.mp3,Summary structure,Yes,,Collection
+41_outb.mp3,OH1 handle,N/A,,Collection
+41_outb.mp3,OH2 handle,N/A,,Collection
+41_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+41_outb.mp3,Attitude,Yes,,Collection
+41_outb.mp3,Call Result,Willpay,,Collection
+42_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+42_outb.mp3,Identification of client,Yes,,Collection
+42_outb.mp3,Reason of the call,Yes,,Collection
+42_outb.mp3,Will you pay,Yes,,Collection
+42_outb.mp3,When,Yes,,Collection
+42_outb.mp3,How much,Yes,,Collection
+42_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+42_outb.mp3,Payment receipt,N/A,,Collection
+42_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+42_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+42_outb.mp3,OH1 handle,N/A,,Collection
+42_outb.mp3,OH2 handle,N/A,,Collection
+42_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+42_outb.mp3,Attitude,Yes,,Collection
+42_outb.mp3,Call Result,Willpay,,Collection
+44_outb.mp3,Greeting,Yes,,Collection
+44_outb.mp3,Identification of client,Yes,,Collection
+44_outb.mp3,Reason of the call,Yes,,Collection
+44_outb.mp3,Will you pay,Yes,,Collection
+44_outb.mp3,When,Yes,,Collection
+44_outb.mp3,How much,Yes,,Collection
+44_outb.mp3,Where,Yes,,Collection
+44_outb.mp3,Payment receipt,N/A,,Collection
+44_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+44_outb.mp3,Summary structure,Yes,,Collection
+44_outb.mp3,OH1 handle,N/A,,Collection
+44_outb.mp3,OH2 handle,N/A,,Collection
+44_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+44_outb.mp3,Attitude,Yes,,Collection
+44_outb.mp3,Call Result,Willpay,,Collection
+45_outb.mp3,Greeting,Yes,,Collection
+45_outb.mp3,Identification of client,Yes,,Collection
+45_outb.mp3,Reason of the call,Yes,,Collection
+45_outb.mp3,Will you pay,Yes,,Collection
+45_outb.mp3,When,Yes,,Collection
+45_outb.mp3,How much,Yes,,Collection
+45_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+45_outb.mp3,Payment receipt,N/A,,Collection
+45_outb.mp3,Contain all information,Yes,,Collection
+45_outb.mp3,Summary structure,Yes,,Collection
+45_outb.mp3,OH1 handle,N/A,,Collection
+45_outb.mp3,OH2 handle,N/A,,Collection
+45_outb.mp3,Communication skill,Yes,,Collection
+45_outb.mp3,Attitude,Yes,,Collection
+45_outb.mp3,Call Result,Willpay,,Collection
+46_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+46_outb.mp3,Identification of client,Yes,,Collection
+46_outb.mp3,Reason of the call,Yes,,Collection
+46_outb.mp3,Will you pay,Yes,,Collection
+46_outb.mp3,When,Yes,,Collection
+46_outb.mp3,How much,Yes,,Collection
+46_outb.mp3,Where,Yes,,Collection
+46_outb.mp3,Payment receipt,N/A,,Collection
+46_outb.mp3,Contain all information,Yes,,Collection
+46_outb.mp3,Summary structure,Yes,,Collection
+46_outb.mp3,OH1 handle,N/A,,Collection
+46_outb.mp3,OH2 handle,N/A,,Collection
+46_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+46_outb.mp3,Attitude,Yes,,Collection
+46_outb.mp3,Call Result,Willpay,,Collection
+47_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+47_outb.mp3,Identification of client,Yes,,Collection
+47_outb.mp3,Reason of the call,Yes,,Collection
+47_outb.mp3,Will you pay,Yes,,Collection
+47_outb.mp3,When,Yes,,Collection
+47_outb.mp3,How much,Yes,,Collection
+47_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+47_outb.mp3,Payment receipt,N/A,,Collection
+47_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+47_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+47_outb.mp3,OH1 handle,N/A,,Collection
+47_outb.mp3,OH2 handle,N/A,,Collection
+47_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+47_outb.mp3,Attitude,Yes,,Collection
+47_outb.mp3,Call Result,Willpay,,Collection
+48_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+48_outb.mp3,Identification of client,Yes,,Collection
+48_outb.mp3,Reason of the call,Yes,,Collection
+48_outb.mp3,Will you pay,Yes,,Collection
+48_outb.mp3,When,Yes,,Collection
+48_outb.mp3,How much,Yes,,Collection
+48_outb.mp3,Where,Yes,,Collection
+48_outb.mp3,Payment receipt,N/A,,Collection
+48_outb.mp3,Contain all information,Yes,,Collection
+48_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+48_outb.mp3,OH1 handle,N/A,,Collection
+48_outb.mp3,OH2 handle,N/A,,Collection
+48_outb.mp3,Communication skill,Yes,,Collection
+48_outb.mp3,Attitude,Yes,,Collection
+48_outb.mp3,Call Result,Willpay,,Collection
+49_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+49_outb.mp3,Identification of client,No,Thiếu ý - Không xác định họ tên,Collection
+49_outb.mp3,Reason of the call,Yes,,Collection
+49_outb.mp3,Will you pay,Yes,,Collection
+49_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+49_outb.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+49_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+49_outb.mp3,Payment receipt,N/A,,Collection
+49_outb.mp3,Contain all information,No,Thiếu lưu ý về tình trạng hợp đồng;#Thiếu hướng dẫn client thanh toán sớm số tiền cần thanh toán;#Thiếu motivation;#Thiếu liên hệ hotline,Collection
+49_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+49_outb.mp3,OH1 handle,Yes,,Collection
+49_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+49_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+49_outb.mp3,Attitude,Yes,,Collection
+49_outb.mp3,Call Result,Nopay,,Collection
+50_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+50_outb.mp3,Identification of client,Yes,,Collection
+50_outb.mp3,Reason of the call,Yes,,Collection
+50_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+50_outb.mp3,When,Yes,,Collection
+50_outb.mp3,How much,Yes,,Collection
+50_outb.mp3,Where,Yes,,Collection
+50_outb.mp3,Payment receipt,N/A,,Collection
+50_outb.mp3,Contain all information,Yes,,Collection
+50_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+50_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+50_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+50_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+50_outb.mp3,Attitude,Yes,,Collection
+50_outb.mp3,Call Result,Willpay,,Collection
+51_outb.mp3,Greeting,Yes,,Collection
+51_outb.mp3,Identification of client,Yes,,Collection
+51_outb.mp3,Reason of the call,Yes,,Collection
+51_outb.mp3,Will you pay,Yes,,Collection
+51_outb.mp3,When,Yes,,Collection
+51_outb.mp3,How much,Yes,,Collection
+51_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+51_outb.mp3,Payment receipt,N/A,,Collection
+51_outb.mp3,Contain all information,Yes,,Collection
+51_outb.mp3,Summary structure,Yes,,Collection
+51_outb.mp3,OH1 handle,N/A,,Collection
+51_outb.mp3,OH2 handle,N/A,,Collection
+51_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+51_outb.mp3,Attitude,Yes,,Collection
+51_outb.mp3,Call Result,Willpay,,Collection
+52_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+52_outb.mp3,Identification of client,Yes,,Collection
+52_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+52_outb.mp3,Will you pay,N/A,,Collection
+52_outb.mp3,When,Yes,,Collection
+52_outb.mp3,How much,Yes,,Collection
+52_outb.mp3,Where,Yes,,Collection
+52_outb.mp3,Payment receipt,N/A,,Collection
+52_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+52_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+52_outb.mp3,OH1 handle,N/A,,Collection
+52_outb.mp3,OH2 handle,N/A,,Collection
+52_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+52_outb.mp3,Attitude,Yes,,Collection
+52_outb.mp3,Call Result,Willpay,,Collection
+53_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+53_outb.mp3,Identification of client,Yes,,Collection
+53_outb.mp3,Reason of the call,Yes,,Collection
+53_outb.mp3,Will you pay,Yes,,Collection
+53_outb.mp3,When,Yes,,Collection
+53_outb.mp3,How much,Yes,,Collection
+53_outb.mp3,Where,Yes,,Collection
+53_outb.mp3,Payment receipt,N/A,,Collection
+53_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+53_outb.mp3,Summary structure,Yes,,Collection
+53_outb.mp3,OH1 handle,N/A,,Collection
+53_outb.mp3,OH2 handle,N/A,,Collection
+53_outb.mp3,Communication skill,Yes,,Collection
+53_outb.mp3,Attitude,Yes,,Collection
+53_outb.mp3,Call Result,Willpay,,Collection
+54_outb.mp3,Greeting,Yes,,Collection
+54_outb.mp3,Identification of client,Yes,,Collection
+54_outb.mp3,Reason of the call,Yes,,Collection
+54_outb.mp3,Will you pay,Yes,,Collection
+54_outb.mp3,When,Yes,,Collection
+54_outb.mp3,How much,Yes,,Collection
+54_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+54_outb.mp3,Payment receipt,N/A,,Collection
+54_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+54_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+54_outb.mp3,OH1 handle,Yes,,Collection
+54_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B;#Thiếu mục tiêu theo quy định cho group M1B,Collection
+54_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+54_outb.mp3,Attitude,No,Vi phạm keyword Thách thức: cúp máy đi,Collection
+54_outb.mp3,Call Result,Willpay,,Collection
+55_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+55_outb.mp3,Identification of client,Yes,,Collection
+55_outb.mp3,Reason of the call,Yes,,Collection
+55_outb.mp3,Will you pay,Yes,,Collection
+55_outb.mp3,When,Yes,,Collection
+55_outb.mp3,How much,Yes,,Collection
+55_outb.mp3,Where,Yes,,Collection
+55_outb.mp3,Payment receipt,N/A,,Collection
+55_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+55_outb.mp3,Summary structure,Yes,,Collection
+55_outb.mp3,OH1 handle,N/A,,Collection
+55_outb.mp3,OH2 handle,N/A,,Collection
+55_outb.mp3,Communication skill,Yes,,Collection
+55_outb.mp3,Attitude,Yes,,Collection
+55_outb.mp3,Call Result,Willpay,,Collection
+56_outb.mp3,Greeting,Yes,,Collection
+56_outb.mp3,Identification of client,Yes,,Collection
+56_outb.mp3,Reason of the call,Yes,,Collection
+56_outb.mp3,Will you pay,Yes,,Collection
+56_outb.mp3,When,Yes,,Collection
+56_outb.mp3,How much,Yes,,Collection
+56_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+56_outb.mp3,Payment receipt,N/A,,Collection
+56_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+56_outb.mp3,Summary structure,Yes,,Collection
+56_outb.mp3,OH1 handle,No,Thiếu mục tiêu theo quy định cho group M1B,Collection
+56_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+56_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+56_outb.mp3,Attitude,Yes,,Collection
+56_outb.mp3,Call Result,Willpay,,Collection
+58_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+58_outb.mp3,Identification of client,Yes,,Collection
+58_outb.mp3,Reason of the call,Yes,,Collection
+58_outb.mp3,Will you pay,Yes,,Collection
+58_outb.mp3,When,Yes,,Collection
+58_outb.mp3,How much,Yes,,Collection
+58_outb.mp3,Where,Yes,,Collection
+58_outb.mp3,Payment receipt,N/A,,Collection
+58_outb.mp3,Contain all information,Yes,,Collection
+58_outb.mp3,Summary structure,Yes,,Collection
+58_outb.mp3,OH1 handle,Yes,,Collection
+58_outb.mp3,OH2 handle,N/A,,Collection
+58_outb.mp3,Communication skill,Yes,,Collection
+58_outb.mp3,Attitude,Yes,,Collection
+58_outb.mp3,Call Result,Willpay,,Collection
+59_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+59_outb.mp3,Identification of client,Yes,,Collection
+59_outb.mp3,Reason of the call,Yes,,Collection
+59_outb.mp3,Will you pay,Yes,,Collection
+59_outb.mp3,When,Yes,,Collection
+59_outb.mp3,How much,Yes,,Collection
+59_outb.mp3,Where,Yes,,Collection
+59_outb.mp3,Payment receipt,N/A,,Collection
+59_outb.mp3,Contain all information,Yes,,Collection
+59_outb.mp3,Summary structure,Yes,,Collection
+59_outb.mp3,OH1 handle,Yes,,Collection
+59_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+59_outb.mp3,Communication skill,Yes,,Collection
+59_outb.mp3,Attitude,Yes,,Collection
+59_outb.mp3,Call Result,Willpay,,Collection
+61_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+61_outb.mp3,Identification of client,Yes,,Collection
+61_outb.mp3,Reason of the call,Yes,,Collection
+61_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+61_outb.mp3,When,Yes,,Collection
+61_outb.mp3,How much,Yes,,Collection
+61_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+61_outb.mp3,Payment receipt,N/A,,Collection
+61_outb.mp3,Contain all information,Yes,,Collection
+61_outb.mp3,Summary structure,Yes,,Collection
+61_outb.mp3,OH1 handle,N/A,,Collection
+61_outb.mp3,OH2 handle,N/A,,Collection
+61_outb.mp3,Communication skill,Yes,,Collection
+61_outb.mp3,Attitude,Yes,,Collection
+61_outb.mp3,Call Result,Willpay,,Collection
+62_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+62_outb.mp3,Identification of client,Yes,,Collection
+62_outb.mp3,Reason of the call,Yes,,Collection
+62_outb.mp3,Will you pay,Yes,,Collection
+62_outb.mp3,When,Yes,,Collection
+62_outb.mp3,How much,Yes,,Collection
+62_outb.mp3,Where,Yes,,Collection
+62_outb.mp3,Payment receipt,N/A,,Collection
+62_outb.mp3,Contain all information,Yes,,Collection
+62_outb.mp3,Summary structure,Yes,,Collection
+62_outb.mp3,OH1 handle,N/A,,Collection
+62_outb.mp3,OH2 handle,N/A,,Collection
+62_outb.mp3,Communication skill,Yes,,Collection
+62_outb.mp3,Attitude,Yes,,Collection
+62_outb.mp3,Call Result,Willpay,,Collection
+114_tot_Paid_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+114_tot_Paid_outb.mp3,Identification of client,Yes,,Collection
+114_tot_Paid_outb.mp3,Reason of the call,Yes,,Collection
+114_tot_Paid_outb.mp3,Will you pay,Yes,,Collection
+114_tot_Paid_outb.mp3,When,Yes,,Collection
+114_tot_Paid_outb.mp3,How much,Yes,,Collection
+114_tot_Paid_outb.mp3,Where,Yes,,Collection
+114_tot_Paid_outb.mp3,Payment receipt,Yes,,Collection
+114_tot_Paid_outb.mp3,Contain all information,Yes,,Collection
+114_tot_Paid_outb.mp3,Summary structure,Yes,,Collection
+114_tot_Paid_outb.mp3,OH1 handle,N/A,,Collection
+114_tot_Paid_outb.mp3,OH2 handle,N/A,,Collection
+114_tot_Paid_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+114_tot_Paid_outb.mp3,Attitude,Yes,,Collection
+114_tot_Paid_outb.mp3,Call Result,Paid,,Collection
+115_tot_Willpay_outb.mp3,Greeting,Yes,,Collection
+115_tot_Willpay_outb.mp3,Identification of client,Yes,,Collection
+115_tot_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+115_tot_Willpay_outb.mp3,Will you pay,Yes,,Collection
+115_tot_Willpay_outb.mp3,When,Yes,,Collection
+115_tot_Willpay_outb.mp3,How much,Yes,,Collection
+115_tot_Willpay_outb.mp3,Where,Yes,,Collection
+115_tot_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+115_tot_Willpay_outb.mp3,Contain all information,Yes,,Collection
+115_tot_Willpay_outb.mp3,Summary structure,Yes,,Collection
+115_tot_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+115_tot_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+115_tot_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng;#Chen ngang khi KH đang nói,Collection
+115_tot_Willpay_outb.mp3,Attitude,Yes,,Collection
+115_tot_Willpay_outb.mp3,Call Result,Willpay,,Collection
+116_tot_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+116_tot_Willpay_outb.mp3,Identification of client,Yes,,Collection
+116_tot_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+116_tot_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+116_tot_Willpay_outb.mp3,When,Yes,,Collection
+116_tot_Willpay_outb.mp3,How much,Yes,,Collection
+116_tot_Willpay_outb.mp3,Where,Yes,,Collection
+116_tot_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+116_tot_Willpay_outb.mp3,Contain all information,Yes,,Collection
+116_tot_Willpay_outb.mp3,Summary structure,Yes,,Collection
+116_tot_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+116_tot_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+116_tot_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+116_tot_Willpay_outb.mp3,Attitude,Yes,,Collection
+116_tot_Willpay_outb.mp3,Call Result,Willpay,,Collection
+117_tot_Paid_outb.mp3,Greeting,Yes,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+117_tot_Paid_outb.mp3,Identification of client,Yes,,Collection
+117_tot_Paid_outb.mp3,Reason of the call,Yes,,Collection
+117_tot_Paid_outb.mp3,Will you pay,Yes,,Collection
+117_tot_Paid_outb.mp3,When,Yes,,Collection
+117_tot_Paid_outb.mp3,How much,Yes,,Collection
+117_tot_Paid_outb.mp3,Where,Yes,,Collection
+117_tot_Paid_outb.mp3,Payment receipt,No,Không hỏi thông tin biên lai theo quy định,Collection
+117_tot_Paid_outb.mp3,Contain all information,Partially,Thiếu kiểm tra / giữ biên lai,Collection
+117_tot_Paid_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+117_tot_Paid_outb.mp3,OH1 handle,N/A,,Collection
+117_tot_Paid_outb.mp3,OH2 handle,N/A,,Collection
+117_tot_Paid_outb.mp3,Communication skill,Yes,,Collection
+117_tot_Paid_outb.mp3,Attitude,Yes,,Collection
+117_tot_Paid_outb.mp3,Call Result,Paid,,Collection
+118_tot_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+118_tot_Willpay_outb.mp3,Identification of client,Yes,,Collection
+118_tot_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+118_tot_Willpay_outb.mp3,Will you pay,Yes,,Collection
+118_tot_Willpay_outb.mp3,When,Yes,,Collection
+118_tot_Willpay_outb.mp3,How much,Yes,,Collection
+118_tot_Willpay_outb.mp3,Where,Yes,,Collection
+118_tot_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+118_tot_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+118_tot_Willpay_outb.mp3,Summary structure,Yes,,Collection
+118_tot_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+118_tot_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+118_tot_Willpay_outb.mp3,Communication skill,Yes,,Collection
+118_tot_Willpay_outb.mp3,Attitude,Yes,,Collection
+118_tot_Willpay_outb.mp3,Call Result,Willpay,,Collection
+119_Nopay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+119_Nopay_outb.mp3,Identification of client,Yes,,Collection
+119_Nopay_outb.mp3,Reason of the call,Yes,,Collection
+119_Nopay_outb.mp3,Will you pay,Yes,,Collection
+119_Nopay_outb.mp3,When,N/A,,Collection
+119_Nopay_outb.mp3,How much,N/A,,Collection
+119_Nopay_outb.mp3,Where,N/A,,Collection
+119_Nopay_outb.mp3,Payment receipt,N/A,,Collection
+119_Nopay_outb.mp3,Contain all information,No,Thiếu lưu ý về tình trạng hợp đồng;#Thiếu hướng dẫn client thanh toán sớm số tiền cần thanh toán;#Thiếu motivation;#Thiếu liên hệ hotline,Collection
+119_Nopay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+119_Nopay_outb.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+119_Nopay_outb.mp3,OH2 handle,N/A,,Collection
+119_Nopay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+119_Nopay_outb.mp3,Attitude,Yes,,Collection
+119_Nopay_outb.mp3,Call Result,Nopay,,Collection
+120_Willpay.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+120_Willpay.mp3,Identification of client,Yes,,Collection
+120_Willpay.mp3,Reason of the call,Yes,,Collection
+120_Willpay.mp3,Will you pay,Yes,,Collection
+120_Willpay.mp3,When,Yes,,Collection
+120_Willpay.mp3,How much,Yes,,Collection
+120_Willpay.mp3,Where,Yes,,Collection
+120_Willpay.mp3,Payment receipt,N/A,,Collection
+120_Willpay.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+120_Willpay.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+120_Willpay.mp3,OH1 handle,N/A,,Collection
+120_Willpay.mp3,OH2 handle,N/A,,Collection
+120_Willpay.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+120_Willpay.mp3,Attitude,No,Vi phạm keyword Danh xưng không phù hợp: nói nè,Collection
+120_Willpay.mp3,Call Result,Willpay,,Collection
+121_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+121_Willpay_outb.mp3,Identification of client,Yes,,Collection
+121_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+121_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+121_Willpay_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+121_Willpay_outb.mp3,How much,Yes,,Collection
+121_Willpay_outb.mp3,Where,Yes,,Collection
+121_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+121_Willpay_outb.mp3,Contain all information,Yes,,Collection
+121_Willpay_outb.mp3,Summary structure,Yes,,Collection
+121_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+121_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+121_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+121_Willpay_outb.mp3,Attitude,Yes,,Collection
+121_Willpay_outb.mp3,Call Result,Willpay,,Collection
+122_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+122_Willpay_outb.mp3,Identification of client,Yes,,Collection
+122_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+122_Willpay_outb.mp3,Will you pay,Yes,,Collection
+122_Willpay_outb.mp3,When,Yes,,Collection
+122_Willpay_outb.mp3,How much,Yes,,Collection
+122_Willpay_outb.mp3,Where,Yes,,Collection
+122_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+122_Willpay_outb.mp3,Contain all information,Yes,,Collection
+122_Willpay_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+122_Willpay_outb.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+122_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+122_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+122_Willpay_outb.mp3,Attitude,Yes,,Collection
+122_Willpay_outb.mp3,Call Result,Willpay,,Collection
+123_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+123_Willpay_outb.mp3,Identification of client,Yes,,Collection
+123_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+123_Willpay_outb.mp3,Will you pay,Yes,,Collection
+123_Willpay_outb.mp3,When,Yes,,Collection
+123_Willpay_outb.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+123_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+123_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+123_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+123_Willpay_outb.mp3,Summary structure,Yes,,Collection
+123_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+123_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+123_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+123_Willpay_outb.mp3,Attitude,Yes,,Collection
+123_Willpay_outb.mp3,Call Result,Willpay,,Collection
+124_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+124_Willpay_outb.mp3,Identification of client,Yes,,Collection
+124_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+124_Willpay_outb.mp3,Will you pay,Yes,,Collection
+124_Willpay_outb.mp3,When,Yes,,Collection
+124_Willpay_outb.mp3,How much,Yes,,Collection
+124_Willpay_outb.mp3,Where,Yes,,Collection
+124_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+124_Willpay_outb.mp3,Contain all information,Yes,,Collection
+124_Willpay_outb.mp3,Summary structure,Yes,,Collection
+124_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+124_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+124_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+124_Willpay_outb.mp3,Attitude,Yes,,Collection
+124_Willpay_outb.mp3,Call Result,Willpay,,Collection
+125_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+125_Willpay_outb.mp3,Identification of client,Yes,,Collection
+125_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+125_Willpay_outb.mp3,Will you pay,Yes,,Collection
+125_Willpay_outb.mp3,When,Yes,,Collection
+125_Willpay_outb.mp3,How much,Yes,,Collection
+125_Willpay_outb.mp3,Where,N/A,,Collection
+125_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+125_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+125_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+125_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+125_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+125_Willpay_outb.mp3,Communication skill,Yes,,Collection
+125_Willpay_outb.mp3,Attitude,Yes,,Collection
+125_Willpay_outb.mp3,Call Result,Willpay,,Collection
+126_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+126_Willpay_outb.mp3,Identification of client,Yes,,Collection
+126_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+126_Willpay_outb.mp3,Will you pay,Yes,,Collection
+126_Willpay_outb.mp3,When,Yes,,Collection
+126_Willpay_outb.mp3,How much,Yes,,Collection
+126_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+126_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+126_Willpay_outb.mp3,Contain all information,Yes,,Collection
+126_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+126_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+126_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+126_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+126_Willpay_outb.mp3,Attitude,Yes,,Collection
+126_Willpay_outb.mp3,Call Result,Willpay,,Collection
+127_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+127_Willpay_outb.mp3,Identification of client,Yes,,Collection
+127_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+127_Willpay_outb.mp3,Will you pay,Yes,,Collection
+127_Willpay_outb.mp3,When,Yes,,Collection
+127_Willpay_outb.mp3,How much,Yes,,Collection
+127_Willpay_outb.mp3,Where,Yes,,Collection
+127_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+127_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+127_Willpay_outb.mp3,Summary structure,Yes,,Collection
+127_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+127_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+127_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+127_Willpay_outb.mp3,Attitude,Yes,,Collection
+127_Willpay_outb.mp3,Call Result,Willpay,,Collection
+128_Paid_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+128_Paid_outb.mp3,Identification of client,Yes,,Collection
+128_Paid_outb.mp3,Reason of the call,Yes,,Collection
+128_Paid_outb.mp3,Will you pay,Yes,,Collection
+128_Paid_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+128_Paid_outb.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+128_Paid_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+128_Paid_outb.mp3,Payment receipt,No,Không hỏi thông tin biên lai theo quy định,Collection
+128_Paid_outb.mp3,Contain all information,Yes,,Collection
+128_Paid_outb.mp3,Summary structure,Yes,,Collection
+128_Paid_outb.mp3,OH1 handle,N/A,,Collection
+128_Paid_outb.mp3,OH2 handle,N/A,,Collection
+128_Paid_outb.mp3,Communication skill,Yes,,Collection
+128_Paid_outb.mp3,Attitude,Yes,,Collection
+128_Paid_outb.mp3,Call Result,Paid,,Collection
+129_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+129_Willpay_outb.mp3,Identification of client,Yes,,Collection
+129_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu số tiền cung cấp cho KH,Collection
+129_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+129_Willpay_outb.mp3,When,Yes,,Collection
+129_Willpay_outb.mp3,How much,Yes,,Collection
+129_Willpay_outb.mp3,Where,Yes,,Collection
+129_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+129_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+129_Willpay_outb.mp3,Summary structure,No,Không chào tạm biệt,Collection
+129_Willpay_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+129_Willpay_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+129_Willpay_outb.mp3,Communication skill,Yes,,Collection
+129_Willpay_outb.mp3,Attitude,Yes,,Collection
+129_Willpay_outb.mp3,Call Result,Willpay,,Collection
+130_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+130_Willpay_outb.mp3,Identification of client,Yes,,Collection
+130_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+130_Willpay_outb.mp3,Will you pay,Yes,,Collection
+130_Willpay_outb.mp3,When,Yes,,Collection
+130_Willpay_outb.mp3,How much,Yes,,Collection
+130_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+130_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+130_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+130_Willpay_outb.mp3,Summary structure,Yes,,Collection
+130_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+130_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+130_Willpay_outb.mp3,Communication skill,Yes,,Collection
+130_Willpay_outb.mp3,Attitude,Yes,,Collection
+130_Willpay_outb.mp3,Call Result,Willpay,,Collection
+131_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+131_Willpay_outb.mp3,Identification of client,Yes,,Collection
+131_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+131_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+131_Willpay_outb.mp3,When,Yes,,Collection
+131_Willpay_outb.mp3,How much,Yes,,Collection
+131_Willpay_outb.mp3,Where,Yes,,Collection
+131_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+131_Willpay_outb.mp3,Contain all information,Yes,,Collection
+131_Willpay_outb.mp3,Summary structure,Yes,,Collection
+131_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+131_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+131_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+131_Willpay_outb.mp3,Attitude,Yes,,Collection
+131_Willpay_outb.mp3,Call Result,Willpay,,Collection
+132_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+132_Willpay_outb.mp3,Identification of client,Yes,,Collection
+132_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+132_Willpay_outb.mp3,Will you pay,Yes,,Collection
+132_Willpay_outb.mp3,When,Yes,,Collection
+132_Willpay_outb.mp3,How much,Yes,,Collection
+132_Willpay_outb.mp3,Where,Yes,,Collection
+132_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+132_Willpay_outb.mp3,Contain all information,Yes,,Collection
+132_Willpay_outb.mp3,Summary structure,Yes,,Collection
+132_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+132_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+132_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+132_Willpay_outb.mp3,Attitude,Yes,,Collection
+132_Willpay_outb.mp3,Call Result,Willpay,,Collection
+133_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+133_Willpay_outb.mp3,Identification of client,Yes,,Collection
+133_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+133_Willpay_outb.mp3,Will you pay,Yes,,Collection
+133_Willpay_outb.mp3,When,Yes,,Collection
+133_Willpay_outb.mp3,How much,Yes,,Collection
+133_Willpay_outb.mp3,Where,Yes,,Collection
+133_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+133_Willpay_outb.mp3,Contain all information,Yes,,Collection
+133_Willpay_outb.mp3,Summary structure,No,Không cám ơn,Collection
+133_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+133_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+133_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+133_Willpay_outb.mp3,Attitude,Yes,,Collection
+133_Willpay_outb.mp3,Call Result,Willpay,,Collection
+134_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+134_Willpay_outb.mp3,Identification of client,Yes,,Collection
+134_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+134_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+134_Willpay_outb.mp3,When,Yes,,Collection
+134_Willpay_outb.mp3,How much,Yes,,Collection
+134_Willpay_outb.mp3,Where,Yes,,Collection
+134_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+134_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+134_Willpay_outb.mp3,Summary structure,Yes,,Collection
+134_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+134_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+134_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+134_Willpay_outb.mp3,Attitude,Yes,,Collection
+134_Willpay_outb.mp3,Call Result,Willpay,,Collection
+135_Nopay_outb.mp3,Greeting,Yes,,Collection
+135_Nopay_outb.mp3,Identification of client,Yes,,Collection
+135_Nopay_outb.mp3,Reason of the call,Yes,,Collection
+135_Nopay_outb.mp3,Will you pay,Yes,,Collection
+135_Nopay_outb.mp3,When,N/A,,Collection
+135_Nopay_outb.mp3,How much,N/A,,Collection
+135_Nopay_outb.mp3,Where,N/A,,Collection
+135_Nopay_outb.mp3,Payment receipt,N/A,,Collection
+135_Nopay_outb.mp3,Contain all information,No,Thiếu lưu ý về tình trạng hợp đồng;#Thiếu hướng dẫn client thanh toán sớm số tiền cần thanh toán;#Thiếu motivation;#Thiếu liên hệ hotline,Collection
+135_Nopay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+135_Nopay_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+135_Nopay_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+135_Nopay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+135_Nopay_outb.mp3,Attitude,Yes,,Collection
+135_Nopay_outb.mp3,Call Result,Nopay,,Collection
+136_Nopay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+136_Nopay_outb.mp3,Identification of client,Yes,,Collection
+136_Nopay_outb.mp3,Reason of the call,Yes,,Collection
+136_Nopay_outb.mp3,Will you pay,Yes,,Collection
+136_Nopay_outb.mp3,When,N/A,,Collection
+136_Nopay_outb.mp3,How much,N/A,,Collection
+136_Nopay_outb.mp3,Where,N/A,,Collection
+136_Nopay_outb.mp3,Payment receipt,N/A,,Collection
+136_Nopay_outb.mp3,Contain all information,Yes,,Collection
+136_Nopay_outb.mp3,Summary structure,Yes,,Collection
+136_Nopay_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+136_Nopay_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+136_Nopay_outb.mp3,Communication skill,Yes,,Collection
+136_Nopay_outb.mp3,Attitude,Yes,,Collection
+136_Nopay_outb.mp3,Call Result,Nopay,,Collection
+137_Willpay_outb.mp3,Greeting,Yes,,Collection
+137_Willpay_outb.mp3,Identification of client,Yes,,Collection
+137_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+137_Willpay_outb.mp3,Will you pay,Yes,,Collection
+137_Willpay_outb.mp3,When,Yes,,Collection
+137_Willpay_outb.mp3,How much,Yes,,Collection
+137_Willpay_outb.mp3,Where,Yes,,Collection
+137_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+137_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+137_Willpay_outb.mp3,Summary structure,Yes,,Collection
+137_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+137_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+137_Willpay_outb.mp3,Communication skill,Yes,,Collection
+137_Willpay_outb.mp3,Attitude,Yes,,Collection
+137_Willpay_outb.mp3,Call Result,Willpay,,Collection
+138_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+138_Willpay_outb.mp3,Identification of client,Yes,,Collection
+138_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+138_Willpay_outb.mp3,Will you pay,Yes,,Collection
+138_Willpay_outb.mp3,When,Yes,,Collection
+138_Willpay_outb.mp3,How much,Yes,,Collection
+138_Willpay_outb.mp3,Where,Yes,,Collection
+138_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+138_Willpay_outb.mp3,Contain all information,Yes,,Collection
+138_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+138_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+138_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+138_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+138_Willpay_outb.mp3,Attitude,Yes,,Collection
+138_Willpay_outb.mp3,Call Result,Willpay,,Collection
+139_Willpay_outb.mp3,Greeting,Yes,,Collection
+139_Willpay_outb.mp3,Identification of client,No,Thiếu ý - Không xác định họ tên,Collection
+139_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+139_Willpay_outb.mp3,Will you pay,Yes,,Collection
+139_Willpay_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+139_Willpay_outb.mp3,How much,Yes,,Collection
+139_Willpay_outb.mp3,Where,Yes,,Collection
+139_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+139_Willpay_outb.mp3,Contain all information,Yes,,Collection
+139_Willpay_outb.mp3,Summary structure,Yes,,Collection
+139_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+139_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+139_Willpay_outb.mp3,Communication skill,Yes,,Collection
+139_Willpay_outb.mp3,Attitude,Yes,,Collection
+139_Willpay_outb.mp3,Call Result,Willpay,,Collection
+140_Willpay_outb.mp3,Greeting,Yes,,Collection
+140_Willpay_outb.mp3,Identification of client,Yes,,Collection
+140_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+140_Willpay_outb.mp3,Will you pay,Yes,,Collection
+140_Willpay_outb.mp3,When,Yes,,Collection
+140_Willpay_outb.mp3,How much,Yes,,Collection
+140_Willpay_outb.mp3,Where,Yes,,Collection
+140_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+140_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+140_Willpay_outb.mp3,Summary structure,Yes,,Collection
+140_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+140_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+140_Willpay_outb.mp3,Communication skill,Yes,,Collection
+140_Willpay_outb.mp3,Attitude,Yes,,Collection
+140_Willpay_outb.mp3,Call Result,Willpay,,Collection
+141_Willpay_outb.mp3,Greeting,Yes,,Collection
+141_Willpay_outb.mp3,Identification of client,Yes,,Collection
+141_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+141_Willpay_outb.mp3,Will you pay,Yes,,Collection
+141_Willpay_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+141_Willpay_outb.mp3,How much,Yes,,Collection
+141_Willpay_outb.mp3,Where,Yes,,Collection
+141_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+141_Willpay_outb.mp3,Contain all information,Yes,,Collection
+141_Willpay_outb.mp3,Summary structure,Yes,,Collection
+141_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+141_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+141_Willpay_outb.mp3,Communication skill,Yes,,Collection
+141_Willpay_outb.mp3,Attitude,Yes,,Collection
+141_Willpay_outb.mp3,Call Result,Willpay,,Collection
+142_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+142_Willpay_outb.mp3,Identification of client,Yes,,Collection
+142_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+142_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+142_Willpay_outb.mp3,When,Yes,,Collection
+142_Willpay_outb.mp3,How much,Yes,,Collection
+142_Willpay_outb.mp3,Where,Yes,,Collection
+142_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+142_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+142_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+142_Willpay_outb.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+142_Willpay_outb.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B,Collection
+142_Willpay_outb.mp3,Communication skill,No,Nhấn giọng,Collection
+142_Willpay_outb.mp3,Attitude,Yes,,Collection
+142_Willpay_outb.mp3,Call Result,Willpay,,Collection
+143_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+143_Willpay_outb.mp3,Identification of client,Yes,,Collection
+143_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+143_Willpay_outb.mp3,Will you pay,Yes,,Collection
+143_Willpay_outb.mp3,When,Yes,,Collection
+143_Willpay_outb.mp3,How much,Yes,,Collection
+143_Willpay_outb.mp3,Where,Yes,,Collection
+143_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+143_Willpay_outb.mp3,Contain all information,Yes,,Collection
+143_Willpay_outb.mp3,Summary structure,Yes,,Collection
+143_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+143_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+143_Willpay_outb.mp3,Communication skill,Yes,,Collection
+143_Willpay_outb.mp3,Attitude,Yes,,Collection
+143_Willpay_outb.mp3,Call Result,Willpay,,Collection
+144_Willpay_outb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+144_Willpay_outb.mp3,Identification of client,Yes,,Collection
+144_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+144_Willpay_outb.mp3,Will you pay,Yes,,Collection
+144_Willpay_outb.mp3,When,Yes,,Collection
+144_Willpay_outb.mp3,How much,Yes,,Collection
+144_Willpay_outb.mp3,Where,Yes,,Collection
+144_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+144_Willpay_outb.mp3,Contain all information,Yes,,Collection
+144_Willpay_outb.mp3,Summary structure,Yes,,Collection
+144_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+144_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+144_Willpay_outb.mp3,Communication skill,Yes,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+144_Willpay_outb.mp3,Attitude,Yes,,Collection
+144_Willpay_outb.mp3,Call Result,Willpay,,Collection
+145_Willpay_outb.mp3,Greeting,Yes,,Collection
+145_Willpay_outb.mp3,Identification of client,Yes,,Collection
+145_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD,Collection
+145_Willpay_outb.mp3,Will you pay,Yes,,Collection
+145_Willpay_outb.mp3,When,Yes,,Collection
+145_Willpay_outb.mp3,How much,Yes,,Collection
+145_Willpay_outb.mp3,Where,Yes,,Collection
+145_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+145_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+145_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+145_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+145_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+145_Willpay_outb.mp3,Communication skill,Yes,,Collection
+145_Willpay_outb.mp3,Attitude,Yes,,Collection
+145_Willpay_outb.mp3,Call Result,Willpay,,Collection
+146_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+146_Willpay_outb.mp3,Identification of client,Yes,,Collection
+146_Willpay_outb.mp3,Reason of the call,No,KB KH: Thiếu số tiền cung cấp cho KH,Collection
+146_Willpay_outb.mp3,Will you pay,Yes,,Collection
+146_Willpay_outb.mp3,When,Yes,,Collection
+146_Willpay_outb.mp3,How much,Yes,,Collection
+146_Willpay_outb.mp3,Where,Yes,,Collection
+146_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+146_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+146_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+146_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+146_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+146_Willpay_outb.mp3,Communication skill,Yes,,Collection
+146_Willpay_outb.mp3,Attitude,Yes,,Collection
+146_Willpay_outb.mp3,Call Result,Willpay,,Collection
+147_Willpay_outb.mp3,Greeting,Yes,,Collection
+147_Willpay_outb.mp3,Identification of client,Yes,,Collection
+147_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+147_Willpay_outb.mp3,Will you pay,Yes,,Collection
+147_Willpay_outb.mp3,When,Yes,,Collection
+147_Willpay_outb.mp3,How much,Yes,,Collection
+147_Willpay_outb.mp3,Where,Yes,,Collection
+147_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+147_Willpay_outb.mp3,Contain all information,Partially,Thiếu motivation,Collection
+147_Willpay_outb.mp3,Summary structure,Yes,,Collection
+147_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+147_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+147_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng,Collection
+147_Willpay_outb.mp3,Attitude,Yes,,Collection
+147_Willpay_outb.mp3,Call Result,Willpay,,Collection
+148_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+148_Willpay_outb.mp3,Identification of client,Yes,,Collection
+148_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+148_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+148_Willpay_outb.mp3,When,Yes,,Collection
+148_Willpay_outb.mp3,How much,Yes,,Collection
+148_Willpay_outb.mp3,Where,Yes,,Collection
+148_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+148_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+148_Willpay_outb.mp3,Summary structure,Yes,,Collection
+148_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+148_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+148_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+148_Willpay_outb.mp3,Attitude,Yes,,Collection
+148_Willpay_outb.mp3,Call Result,Willpay,,Collection
+149_Willpay_outb.mp3,Greeting,Yes,,Collection
+149_Willpay_outb.mp3,Identification of client,Yes,,Collection
+149_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+149_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+149_Willpay_outb.mp3,When,Yes,,Collection
+149_Willpay_outb.mp3,How much,Yes,,Collection
+149_Willpay_outb.mp3,Where,Yes,,Collection
+149_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+149_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+149_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+149_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+149_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+149_Willpay_outb.mp3,Communication skill,Yes,,Collection
+149_Willpay_outb.mp3,Attitude,Yes,,Collection
+149_Willpay_outb.mp3,Call Result,Willpay,,Collection
+150_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+150_Willpay_outb.mp3,Identification of client,Yes,,Collection
+150_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+150_Willpay_outb.mp3,Will you pay,Yes,,Collection
+150_Willpay_outb.mp3,When,Yes,,Collection
+150_Willpay_outb.mp3,How much,Yes,,Collection
+150_Willpay_outb.mp3,Where,Yes,,Collection
+150_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+150_Willpay_outb.mp3,Contain all information,Yes,,Collection
+150_Willpay_outb.mp3,Summary structure,Yes,,Collection
+150_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+150_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+150_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+150_Willpay_outb.mp3,Attitude,Yes,,Collection
+150_Willpay_outb.mp3,Call Result,Willpay,,Collection
+151_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+151_Willpay_outb.mp3,Identification of client,Yes,,Collection
+151_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+151_Willpay_outb.mp3,Will you pay,Yes,,Collection
+151_Willpay_outb.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+151_Willpay_outb.mp3,How much,Yes,,Collection
+151_Willpay_outb.mp3,Where,Yes,,Collection
+151_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+151_Willpay_outb.mp3,Contain all information,Yes,,Collection
+151_Willpay_outb.mp3,Summary structure,Yes,,Collection
+151_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+151_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+151_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nói quá to hoặc quá nhỏ;#Nhấn giọng",Collection
+151_Willpay_outb.mp3,Attitude,Yes,,Collection
+151_Willpay_outb.mp3,Call Result,Willpay,,Collection
+152_Willpay_outb.mp3,Greeting,Yes,,Collection
+152_Willpay_outb.mp3,Identification of client,Yes,,Collection
+152_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+152_Willpay_outb.mp3,Will you pay,Yes,,Collection
+152_Willpay_outb.mp3,When,Yes,,Collection
+152_Willpay_outb.mp3,How much,Yes,,Collection
+152_Willpay_outb.mp3,Where,Yes,,Collection
+152_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+152_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+152_Willpay_outb.mp3,Summary structure,Yes,,Collection
+152_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+152_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+152_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+152_Willpay_outb.mp3,Attitude,Yes,,Collection
+152_Willpay_outb.mp3,Call Result,Willpay,,Collection
+153_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+153_Willpay_outb.mp3,Identification of client,Yes,,Collection
+153_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+153_Willpay_outb.mp3,Will you pay,Yes,,Collection
+153_Willpay_outb.mp3,When,Yes,,Collection
+153_Willpay_outb.mp3,How much,Yes,,Collection
+153_Willpay_outb.mp3,Where,Yes,,Collection
+153_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+153_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+153_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+153_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+153_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+153_Willpay_outb.mp3,Communication skill,Yes,,Collection
+153_Willpay_outb.mp3,Attitude,No,Vi phạm keyword Danh xưng không phù hợp: thằng,Collection
+153_Willpay_outb.mp3,Call Result,Willpay,,Collection
+154_Willpay_outb.mp3,Greeting,Yes,,Collection
+154_Willpay_outb.mp3,Identification of client,Yes,,Collection
+154_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+154_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+154_Willpay_outb.mp3,When,Yes,,Collection
+154_Willpay_outb.mp3,How much,Yes,,Collection
+154_Willpay_outb.mp3,Where,Yes,,Collection
+154_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+154_Willpay_outb.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+154_Willpay_outb.mp3,Summary structure,Yes,,Collection
+154_Willpay_outb.mp3,OH1 handle,Yes,,Collection
+154_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+154_Willpay_outb.mp3,Communication skill,Yes,,Collection
+154_Willpay_outb.mp3,Attitude,Yes,,Collection
+154_Willpay_outb.mp3,Call Result,Willpay,,Collection
+155_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+155_Willpay_outb.mp3,Identification of client,Yes,,Collection
+155_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+155_Willpay_outb.mp3,Will you pay,Yes,,Collection
+155_Willpay_outb.mp3,When,Yes,,Collection
+155_Willpay_outb.mp3,How much,Yes,,Collection
+155_Willpay_outb.mp3,Where,Yes,,Collection
+155_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+155_Willpay_outb.mp3,Contain all information,Yes,,Collection
+155_Willpay_outb.mp3,Summary structure,Yes,,Collection
+155_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+155_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+155_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+155_Willpay_outb.mp3,Attitude,No,Vi phạm keyword Danh xưng không phù hợp: tao,Collection
+155_Willpay_outb.mp3,Call Result,Willpay,,Collection
+156_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+156_Willpay_outb.mp3,Identification of client,Yes,,Collection
+156_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+156_Willpay_outb.mp3,Will you pay,Yes,,Collection
+156_Willpay_outb.mp3,When,Yes,,Collection
+156_Willpay_outb.mp3,How much,Yes,,Collection
+156_Willpay_outb.mp3,Where,Yes,,Collection
+156_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+156_Willpay_outb.mp3,Contain all information,Yes,,Collection
+156_Willpay_outb.mp3,Summary structure,Yes,,Collection
+156_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+156_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+156_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+156_Willpay_outb.mp3,Attitude,Yes,,Collection
+156_Willpay_outb.mp3,Call Result,Willpay,,Collection
+157_Willpay_outb.mp3,Greeting,Yes,,Collection
+157_Willpay_outb.mp3,Identification of client,Yes,,Collection
+157_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+157_Willpay_outb.mp3,Will you pay,Yes,,Collection
+157_Willpay_outb.mp3,When,Yes,,Collection
+157_Willpay_outb.mp3,How much,Yes,,Collection
+157_Willpay_outb.mp3,Where,Yes,,Collection
+157_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+157_Willpay_outb.mp3,Contain all information,Yes,,Collection
+157_Willpay_outb.mp3,Summary structure,Yes,,Collection
+157_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+157_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+157_Willpay_outb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+157_Willpay_outb.mp3,Attitude,Yes,,Collection
+157_Willpay_outb.mp3,Call Result,Willpay,,Collection
+158_Willpay_outb.mp3,Greeting,Yes,,Collection
+158_Willpay_outb.mp3,Identification of client,Yes,,Collection
+158_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+158_Willpay_outb.mp3,Will you pay,Yes,,Collection
+158_Willpay_outb.mp3,When,Yes,,Collection
+158_Willpay_outb.mp3,How much,Yes,,Collection
+158_Willpay_outb.mp3,Where,Yes,,Collection
+158_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+158_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+158_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+158_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+158_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+158_Willpay_outb.mp3,Communication skill,Yes,,Collection
+158_Willpay_outb.mp3,Attitude,Yes,,Collection
+158_Willpay_outb.mp3,Call Result,Willpay,,Collection
+159_Willpay_outb.mp3,Greeting,Yes,,Collection
+159_Willpay_outb.mp3,Identification of client,Yes,,Collection
+159_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+159_Willpay_outb.mp3,Will you pay,Yes,,Collection
+159_Willpay_outb.mp3,When,Yes,,Collection
+159_Willpay_outb.mp3,How much,Yes,,Collection
+159_Willpay_outb.mp3,Where,Yes,,Collection
+159_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+159_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+159_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+159_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+159_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+159_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ,Collection
+159_Willpay_outb.mp3,Attitude,Yes,,Collection
+159_Willpay_outb.mp3,Call Result,Willpay,,Collection
+160_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+160_Willpay_outb.mp3,Identification of client,Yes,,Collection
+160_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+160_Willpay_outb.mp3,Will you pay,Yes,,Collection
+160_Willpay_outb.mp3,When,Yes,,Collection
+160_Willpay_outb.mp3,How much,Yes,,Collection
+160_Willpay_outb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+160_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+160_Willpay_outb.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+160_Willpay_outb.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+160_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+160_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+160_Willpay_outb.mp3,Communication skill,Yes,,Collection
+160_Willpay_outb.mp3,Attitude,Yes,,Collection
+160_Willpay_outb.mp3,Call Result,Willpay,,Collection
+161_Willpay_outb.mp3,Greeting,Yes,,Collection
+161_Willpay_outb.mp3,Identification of client,Yes,,Collection
+161_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+161_Willpay_outb.mp3,Will you pay,Yes,,Collection
+161_Willpay_outb.mp3,When,Yes,,Collection
+161_Willpay_outb.mp3,How much,Yes,,Collection
+161_Willpay_outb.mp3,Where,Yes,,Collection
+161_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+161_Willpay_outb.mp3,Contain all information,Yes,,Collection
+161_Willpay_outb.mp3,Summary structure,Yes,,Collection
+161_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+161_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+161_Willpay_outb.mp3,Communication skill,Yes,,Collection
+161_Willpay_outb.mp3,Attitude,Yes,,Collection
+161_Willpay_outb.mp3,Call Result,Willpay,,Collection
+162_Willpay_outb.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+162_Willpay_outb.mp3,Identification of client,Yes,,Collection
+162_Willpay_outb.mp3,Reason of the call,Yes,,Collection
+162_Willpay_outb.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+162_Willpay_outb.mp3,When,Yes,,Collection
+162_Willpay_outb.mp3,How much,Yes,,Collection
+162_Willpay_outb.mp3,Where,Yes,,Collection
+162_Willpay_outb.mp3,Payment receipt,N/A,,Collection
+162_Willpay_outb.mp3,Contain all information,Yes,,Collection
+162_Willpay_outb.mp3,Summary structure,Yes,,Collection
+162_Willpay_outb.mp3,OH1 handle,N/A,,Collection
+162_Willpay_outb.mp3,OH2 handle,N/A,,Collection
+162_Willpay_outb.mp3,Communication skill,No,Nói quá to hoặc quá nhỏ;#Nhấn giọng;#Chen ngang khi KH đang nói,Collection
+162_Willpay_outb.mp3,Attitude,Yes,,Collection
+162_Willpay_outb.mp3,Call Result,Willpay,,Collection
+2143_call 1.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2143_call 1.mp3,Identification of client,Yes,,Collection
+2143_call 1.mp3,Reason of the call,Yes,,Collection
+2143_call 1.mp3,Will you pay,Yes,,Collection
+2143_call 1.mp3,When,Yes,,Collection
+2143_call 1.mp3,How much,Yes,,Collection
+2143_call 1.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2143_call 1.mp3,Payment receipt,N/A,,Collection
+2143_call 1.mp3,Contain all information,Yes,,Collection
+2143_call 1.mp3,Summary structure,Yes,,Collection
+2143_call 1.mp3,OH1 handle,Yes,,Collection
+2143_call 1.mp3,OH2 handle,N/A,,Collection
+2143_call 1.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2143_call 1.mp3,Attitude,Yes,,Collection
+2143_call 1.mp3,Call Result,Willpay,,Collection
+2143_call 2.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+2143_call 2.mp3,Identification of client,Yes,,Collection
+2143_call 2.mp3,Reason of the call,Yes,,Collection
+2143_call 2.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+2143_call 2.mp3,When,Yes,,Collection
+2143_call 2.mp3,How much,Yes,,Collection
+2143_call 2.mp3,Where,Yes,,Collection
+2143_call 2.mp3,Payment receipt,N/A,,Collection
+2143_call 2.mp3,Contain all information,Yes,,Collection
+2143_call 2.mp3,Summary structure,Yes,,Collection
+2143_call 2.mp3,OH1 handle,Yes,,Collection
+2143_call 2.mp3,OH2 handle,Yes,,Collection
+2143_call 2.mp3,Communication skill,Yes,,Collection
+2143_call 2.mp3,Attitude,Yes,,Collection
+2143_call 2.mp3,Call Result,Willpay,,Collection
+2143_call 3_inb.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2143_call 3_inb.mp3,Identification of client,Yes,,Collection
+2143_call 3_inb.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+2143_call 3_inb.mp3,Will you pay,Yes,,Collection
+2143_call 3_inb.mp3,When,Yes,,Collection
+2143_call 3_inb.mp3,How much,Yes,,Collection
+2143_call 3_inb.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2143_call 3_inb.mp3,Payment receipt,N/A,,Collection
+2143_call 3_inb.mp3,Contain all information,Yes,,Collection
+2143_call 3_inb.mp3,Summary structure,Yes,,Collection
+2143_call 3_inb.mp3,OH1 handle,Yes,,Collection
+2143_call 3_inb.mp3,OH2 handle,N/A,,Collection
+2143_call 3_inb.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Nhấn giọng",Collection
+2143_call 3_inb.mp3,Attitude,Yes,,Collection
+2143_call 3_inb.mp3,Call Result,Willpay,,Collection
+2143_call 4.mp3,Greeting,Yes,,Collection
+2143_call 4.mp3,Identification of client,No,Thiếu ý - Không xác định họ tên,Collection
+2143_call 4.mp3,Reason of the call,Yes,,Collection
+2143_call 4.mp3,Will you pay,Yes,,Collection
+2143_call 4.mp3,When,Yes,,Collection
+2143_call 4.mp3,How much,Yes,,Collection
+2143_call 4.mp3,Where,Yes,,Collection
+2143_call 4.mp3,Payment receipt,N/A,,Collection
+2143_call 4.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+2143_call 4.mp3,Summary structure,No,Không chào tạm biệt,Collection
+2143_call 4.mp3,OH1 handle,No,Thiếu mục tiêu theo quy định cho group M1B,Collection
+2143_call 4.mp3,OH2 handle,Yes,,Collection
+2143_call 4.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ;#Chen ngang khi KH đang nói",Collection
+2143_call 4.mp3,Attitude,Yes,,Collection
+2143_call 4.mp3,Call Result,Willpay,,Collection
+2147_Call 2.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên công ty,Collection
+2147_Call 2.mp3,Identification of client,Yes,,Collection
+2147_Call 2.mp3,Reason of the call,Yes,,Collection
+2147_Call 2.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+2147_Call 2.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+2147_Call 2.mp3,How much,Yes,,Collection
+2147_Call 2.mp3,Where,Yes,,Collection
+2147_Call 2.mp3,Payment receipt,N/A,,Collection
+2147_Call 2.mp3,Contain all information,Yes,,Collection
+2147_Call 2.mp3,Summary structure,Yes,,Collection
+2147_Call 2.mp3,OH1 handle,N/A,,Collection
+2147_Call 2.mp3,OH2 handle,N/A,,Collection
+2147_Call 2.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2147_Call 2.mp3,Attitude,Yes,,Collection
+2147_Call 2.mp3,Call Result,Willpay,,Collection
+2147_Call 5.mp3,Greeting,Yes,,Collection
+2147_Call 5.mp3,Identification of client,Yes,,Collection
+2147_Call 5.mp3,Reason of the call,Yes,,Collection
+2147_Call 5.mp3,Will you pay,Yes,,Collection
+2147_Call 5.mp3,When,Yes,,Collection
+2147_Call 5.mp3,How much,Yes,,Collection
+2147_Call 5.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2147_Call 5.mp3,Payment receipt,N/A,,Collection
+2147_Call 5.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+2147_Call 5.mp3,Summary structure,Yes,Không cám ơn,Collection
+2147_Call 5.mp3,OH1 handle,N/A,,Collection
+2147_Call 5.mp3,OH2 handle,N/A,,Collection
+2147_Call 5.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2147_Call 5.mp3,Attitude,Yes,,Collection
+2147_Call 5.mp3,Call Result,Willpay,,Collection
+2155_Call 2.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2155_Call 2.mp3,Identification of client,No,Thiếu ý - Không xác định họ tên,Collection
+2155_Call 2.mp3,Reason of the call,Yes,,Collection
+2155_Call 2.mp3,Will you pay,Yes,,Collection
+2155_Call 2.mp3,When,N/A,,Collection
+2155_Call 2.mp3,How much,N/A,,Collection
+2155_Call 2.mp3,Where,N/A,,Collection
+2155_Call 2.mp3,Payment receipt,N/A,,Collection
+2155_Call 2.mp3,Contain all information,Yes,,Collection
+2155_Call 2.mp3,Summary structure,Yes,,Collection
+2155_Call 2.mp3,OH1 handle,Yes,,Collection
+2155_Call 2.mp3,OH2 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+2155_Call 2.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2155_Call 2.mp3,Attitude,Yes,,Collection
+2155_Call 2.mp3,Call Result,Nopay,,Collection
+2155_Call 3.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2155_Call 3.mp3,Identification of client,Yes,,Collection
+2155_Call 3.mp3,Reason of the call,Yes,,Collection
+2155_Call 3.mp3,Will you pay,Yes,,Collection
+2155_Call 3.mp3,When,Yes,,Collection
+2155_Call 3.mp3,How much,Yes,,Collection
+2155_Call 3.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2155_Call 3.mp3,Payment receipt,N/A,,Collection
+2155_Call 3.mp3,Contain all information,Yes,,Collection
+2155_Call 3.mp3,Summary structure,Yes,,Collection
+2155_Call 3.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+2155_Call 3.mp3,OH2 handle,N/A,,Collection
+2155_Call 3.mp3,Communication skill,Yes,,Collection
+2155_Call 3.mp3,Attitude,Yes,,Collection
+2155_Call 3.mp3,Call Result,Willpay,,Collection
+2155_Call 5.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+2155_Call 5.mp3,Identification of client,Yes,,Collection
+2155_Call 5.mp3,Reason of the call,Yes,,Collection
+2155_Call 5.mp3,Will you pay,Yes,,Collection
+2155_Call 5.mp3,When,Yes,,Collection
+2155_Call 5.mp3,How much,Yes,,Collection
+2155_Call 5.mp3,Where,Yes,,Collection
+2155_Call 5.mp3,Payment receipt,N/A,,Collection
+2155_Call 5.mp3,Contain all information,Yes,,Collection
+2155_Call 5.mp3,Summary structure,Yes,,Collection
+2155_Call 5.mp3,OH1 handle,N/A,,Collection
+2155_Call 5.mp3,OH2 handle,N/A,,Collection
+2155_Call 5.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2155_Call 5.mp3,Attitude,Yes,,Collection
+2155_Call 5.mp3,Call Result,Willpay,,Collection
+2155-Call 4.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2155-Call 4.mp3,Identification of client,Yes,,Collection
+2155-Call 4.mp3,Reason of the call,Yes,,Collection
+2155-Call 4.mp3,Will you pay,Yes,,Collection
+2155-Call 4.mp3,When,Yes,,Collection
+2155-Call 4.mp3,How much,Yes,,Collection
+2155-Call 4.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2155-Call 4.mp3,Payment receipt,N/A,,Collection
+2155-Call 4.mp3,Contain all information,Yes,,Collection
+2155-Call 4.mp3,Summary structure,Yes,,Collection
+2155-Call 4.mp3,OH1 handle,Yes,,Collection
+2155-Call 4.mp3,OH2 handle,Yes,,Collection
+2155-Call 4.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2155-Call 4.mp3,Attitude,Yes,,Collection
+2155-Call 4.mp3,Call Result,Willpay,,Collection
+2162 - Call 1.mp3,Greeting,Yes,,Collection
+2162 - Call 1.mp3,Identification of client,Yes,,Collection
+2162 - Call 1.mp3,Reason of the call,Yes,,Collection
+2162 - Call 1.mp3,Will you pay,Yes,,Collection
+2162 - Call 1.mp3,When,Yes,,Collection
+2162 - Call 1.mp3,How much,Yes,,Collection
+2162 - Call 1.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2162 - Call 1.mp3,Payment receipt,N/A,,Collection
+2162 - Call 1.mp3,Contain all information,Yes,,Collection
+2162 - Call 1.mp3,Summary structure,Yes,,Collection
+2162 - Call 1.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu mục tiêu theo quy định cho group M1B,Collection
+2162 - Call 1.mp3,OH2 handle,No,Thiếu giải pháp theo quy định cho group M1B,Collection
+2162 - Call 1.mp3,Communication skill,Yes,,Collection
+2162 - Call 1.mp3,Attitude,Yes,,Collection
+2162 - Call 1.mp3,Call Result,Willpay,,Collection
+2162 - Call 2.mp3,Greeting,Yes,,Collection
+2162 - Call 2.mp3,Identification of client,Yes,,Collection
+2162 - Call 2.mp3,Reason of the call,Yes,,Collection
+2162 - Call 2.mp3,Will you pay,Yes,,Collection
+2162 - Call 2.mp3,When,Yes,,Collection
+2162 - Call 2.mp3,How much,Yes,,Collection
+2162 - Call 2.mp3,Where,Yes,,Collection
+2162 - Call 2.mp3,Payment receipt,N/A,,Collection
+2162 - Call 2.mp3,Contain all information,Partially,Thiếu motivation,Collection
+2162 - Call 2.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+2162 - Call 2.mp3,OH1 handle,N/A,,Collection
+2162 - Call 2.mp3,OH2 handle,N/A,,Collection
+2162 - Call 2.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2162 - Call 2.mp3,Attitude,Yes,,Collection
+2162 - Call 2.mp3,Call Result,Willpay,,Collection
+2162 - Call 4.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+2162 - Call 4.mp3,Identification of client,Yes,,Collection
+2162 - Call 4.mp3,Reason of the call,Yes,,Collection
+2162 - Call 4.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+2162 - Call 4.mp3,When,Yes,,Collection
+2162 - Call 4.mp3,How much,Yes,,Collection
+2162 - Call 4.mp3,Where,Yes,,Collection
+2162 - Call 4.mp3,Payment receipt,N/A,,Collection
+2162 - Call 4.mp3,Contain all information,Yes,,Collection
+2162 - Call 4.mp3,Summary structure,Yes,,Collection
+2162 - Call 4.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu mục tiêu theo quy định cho group M1B,Collection
+2162 - Call 4.mp3,OH2 handle,N/A,,Collection
+2162 - Call 4.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2162 - Call 4.mp3,Attitude,Yes,,Collection
+2162 - Call 4.mp3,Call Result,Willpay,,Collection
+2162 - Call 5.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2162 - Call 5.mp3,Identification of client,Yes,,Collection
+2162 - Call 5.mp3,Reason of the call,Yes,,Collection
+2162 - Call 5.mp3,Will you pay,Yes,,Collection
+2162 - Call 5.mp3,When,Yes,,Collection
+2162 - Call 5.mp3,How much,Yes,,Collection
+2162 - Call 5.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2162 - Call 5.mp3,Payment receipt,N/A,,Collection
+2162 - Call 5.mp3,Contain all information,Partially,Thiếu motivation,Collection
+2162 - Call 5.mp3,Summary structure,Yes,,Collection
+2162 - Call 5.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+2162 - Call 5.mp3,OH2 handle,Yes,,Collection
+2162 - Call 5.mp3,Communication skill,Yes,,Collection
+2162 - Call 5.mp3,Attitude,Yes,,Collection
+2162 - Call 5.mp3,Call Result,Willpay,,Collection
+2179 - call 1.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2179 - call 1.mp3,Identification of client,Yes,,Collection
+2179 - call 1.mp3,Reason of the call,Yes,,Collection
+2179 - call 1.mp3,Will you pay,Yes,,Collection
+2179 - call 1.mp3,When,Yes,,Collection
+2179 - call 1.mp3,How much,Yes,,Collection
+2179 - call 1.mp3,Where,Yes,,Collection
+2179 - call 1.mp3,Payment receipt,N/A,,Collection
+2179 - call 1.mp3,Contain all information,Yes,,Collection
+2179 - call 1.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+2179 - call 1.mp3,OH1 handle,N/A,,Collection
+2179 - call 1.mp3,OH2 handle,N/A,,Collection
+2179 - call 1.mp3,Communication skill,Yes,,Collection
+2179 - call 1.mp3,Attitude,Yes,,Collection
+2179 - call 1.mp3,Call Result,Willpay,,Collection
+2179 - call 4.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2179 - call 4.mp3,Identification of client,Yes,,Collection
+2179 - call 4.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD,Collection
+2179 - call 4.mp3,Will you pay,Yes,,Collection
+2179 - call 4.mp3,When,Yes,,Collection
+2179 - call 4.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+2179 - call 4.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2179 - call 4.mp3,Payment receipt,N/A,,Collection
+2179 - call 4.mp3,Contain all information,Partially,Thiếu motivation,Collection
+2179 - call 4.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+2179 - call 4.mp3,OH1 handle,N/A,,Collection
+2179 - call 4.mp3,OH2 handle,N/A,,Collection
+2179 - call 4.mp3,Communication skill,Yes,,Collection
+2179 - call 4.mp3,Attitude,Yes,,Collection
+2179 - call 4.mp3,Call Result,Willpay,,Collection
+2179 - call 5.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2179 - call 5.mp3,Identification of client,Yes,,Collection
+2179 - call 5.mp3,Reason of the call,Yes,,Collection
+2179 - call 5.mp3,Will you pay,Yes,,Collection
+2179 - call 5.mp3,When,Yes,,Collection
+2179 - call 5.mp3,How much,Yes,,Collection
+2179 - call 5.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2179 - call 5.mp3,Payment receipt,N/A,,Collection
+2179 - call 5.mp3,Contain all information,Yes,,Collection
+2179 - call 5.mp3,Summary structure,Yes,,Collection
+2179 - call 5.mp3,OH1 handle,N/A,,Collection
+2179 - call 5.mp3,OH2 handle,N/A,,Collection
+2179 - call 5.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2179 - call 5.mp3,Attitude,Yes,,Collection
+2179 - call 5.mp3,Call Result,Willpay,,Collection
+2186_call 1.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2186_call 1.mp3,Identification of client,Yes,,Collection
+2186_call 1.mp3,Reason of the call,Yes,,Collection
+2186_call 1.mp3,Will you pay,Yes,,Collection
+2186_call 1.mp3,When,Yes,,Collection
+2186_call 1.mp3,How much,Yes,,Collection
+2186_call 1.mp3,Where,Yes,,Collection
+2186_call 1.mp3,Payment receipt,N/A,,Collection
+2186_call 1.mp3,Contain all information,Yes,,Collection
+2186_call 1.mp3,Summary structure,Yes,,Collection
+2186_call 1.mp3,OH1 handle,N/A,,Collection
+2186_call 1.mp3,OH2 handle,N/A,,Collection
+2186_call 1.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2186_call 1.mp3,Attitude,Yes,,Collection
+2186_call 1.mp3,Call Result,Willpay,,Collection
+2186_call 2.mp3,Greeting,No,Không giới thiệu tên nhân viên,Collection
+2186_call 2.mp3,Identification of client,Yes,,Collection
+2186_call 2.mp3,Reason of the call,Yes,,Collection
+2186_call 2.mp3,Will you pay,Yes,,Collection
+2186_call 2.mp3,When,Yes,,Collection
+2186_call 2.mp3,How much,No,Không lấy được thông tin số tiền theo quy định,Collection
+2186_call 2.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2186_call 2.mp3,Payment receipt,N/A,,Collection
+2186_call 2.mp3,Contain all information,Yes,,Collection
+2186_call 2.mp3,Summary structure,Yes,,Collection
+2186_call 2.mp3,OH1 handle,N/A,,Collection
+2186_call 2.mp3,OH2 handle,N/A,,Collection
+2186_call 2.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2186_call 2.mp3,Attitude,Yes,,Collection
+2186_call 2.mp3,Call Result,Willpay,,Collection
+2186_call 4.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên công ty,Collection
+2186_call 4.mp3,Identification of client,Yes,,Collection
+2186_call 4.mp3,Reason of the call,Yes,,Collection
+2186_call 4.mp3,Will you pay,Yes,,Collection
+2186_call 4.mp3,When,Yes,,Collection
+2186_call 4.mp3,How much,Yes,,Collection
+2186_call 4.mp3,Where,Yes,,Collection
+2186_call 4.mp3,Payment receipt,N/A,,Collection
+2186_call 4.mp3,Contain all information,Partially,Thiếu motivation,Collection
+2186_call 4.mp3,Summary structure,Yes,,Collection
+2186_call 4.mp3,OH1 handle,N/A,,Collection
+2186_call 4.mp3,OH2 handle,N/A,,Collection
+2186_call 4.mp3,Communication skill,Yes,,Collection
+2186_call 4.mp3,Attitude,Yes,,Collection
+2186_call 4.mp3,Call Result,Willpay,,Collection
+2188-call 2.mp3,Greeting,Yes,,Collection
+2188-call 2.mp3,Identification of client,Yes,,Collection
+2188-call 2.mp3,Reason of the call,Yes,,Collection
+2188-call 2.mp3,Will you pay,No,Không hỏi theo quy định,Collection
+2188-call 2.mp3,When,Yes,,Collection
+2188-call 2.mp3,How much,Yes,,Collection
+2188-call 2.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2188-call 2.mp3,Payment receipt,N/A,,Collection
+2188-call 2.mp3,Contain all information,Partially,Thiếu thông tin thanh toán,Collection
+2188-call 2.mp3,Summary structure,Yes,Không cám ơn;#Không chào tạm biệt,Collection
+2188-call 2.mp3,OH1 handle,N/A,,Collection
+2188-call 2.mp3,OH2 handle,N/A,,Collection
+2188-call 2.mp3,Communication skill,No,Nhấn giọng,Collection
+2188-call 2.mp3,Attitude,Yes,,Collection
+2188-call 2.mp3,Call Result,Willpay,,Collection
+2188-call 3.mp3,Greeting,Yes,,Collection
+2188-call 3.mp3,Identification of client,Yes,,Collection
+2188-call 3.mp3,Reason of the call,Yes,,Collection
+2188-call 3.mp3,Will you pay,Yes,,Collection
+2188-call 3.mp3,When,Yes,,Collection
+2188-call 3.mp3,How much,Yes,,Collection
+2188-call 3.mp3,Where,Yes,,Collection
+2188-call 3.mp3,Payment receipt,N/A,,Collection
+2188-call 3.mp3,Contain all information,Yes,,Collection
+2188-call 3.mp3,Summary structure,Yes,,Collection
+2188-call 3.mp3,OH1 handle,No,Thiếu giải pháp theo quy định cho group M1B;#Thiếu motivation theo quy định cho group M1B;#Thiếu mục tiêu theo quy định cho group M1B,Collection
+2188-call 3.mp3,OH2 handle,N/A,,Collection
+2188-call 3.mp3,Communication skill,Yes,,Collection
+2188-call 3.mp3,Attitude,Yes,,Collection
+2188-call 3.mp3,Call Result,Willpay,,Collection
+2188-call 4.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2188-call 4.mp3,Identification of client,Yes,,Collection
+2188-call 4.mp3,Reason of the call,Yes,,Collection
+2188-call 4.mp3,Will you pay,Yes,,Collection
+2188-call 4.mp3,When,No,Không lấy được thông tin ngày thanh toán theo quy định,Collection
+2188-call 4.mp3,How much,Yes,,Collection
+2188-call 4.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2188-call 4.mp3,Payment receipt,N/A,,Collection
+2188-call 4.mp3,Contain all information,Yes,,Collection
+2188-call 4.mp3,Summary structure,Yes,,Collection
+2188-call 4.mp3,OH1 handle,Yes,,Collection
+2188-call 4.mp3,OH2 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+2188-call 4.mp3,Communication skill,Yes,,Collection
+2188-call 4.mp3,Attitude,Yes,,Collection
+2188-call 4.mp3,Call Result,Willpay,,Collection
+2188-call 5.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên,Collection
+2188-call 5.mp3,Identification of client,Yes,,Collection
+2188-call 5.mp3,Reason of the call,Yes,,Collection
+2188-call 5.mp3,Will you pay,Yes,,Collection
+2188-call 5.mp3,When,Yes,,Collection
+2188-call 5.mp3,How much,Yes,,Collection
+2188-call 5.mp3,Where,Yes,,Collection
+2188-call 5.mp3,Payment receipt,N/A,,Collection
+2188-call 5.mp3,Contain all information,No,Thiếu thông tin thanh toán;#Thiếu motivation,Collection
+2188-call 5.mp3,Summary structure,No,Không cám ơn;#Không chào tạm biệt,Collection
+2188-call 5.mp3,OH1 handle,No,Thiếu motivation theo quy định cho group M1B,Collection
+2188-call 5.mp3,OH2 handle,Yes,,Collection
+2188-call 5.mp3,Communication skill,Yes,,Collection
+2188-call 5.mp3,Attitude,Yes,,Collection
+2188-call 5.mp3,Call Result,Willpay,,Collection
+2189 - Call 2.mp3,Greeting,Yes,,Collection
+2189 - Call 2.mp3,Identification of client,Yes,,Collection
+2189 - Call 2.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+2189 - Call 2.mp3,Will you pay,Yes,,Collection
+2189 - Call 2.mp3,When,Yes,,Collection
+2189 - Call 2.mp3,How much,Yes,,Collection
+2189 - Call 2.mp3,Where,Yes,,Collection
+2189 - Call 2.mp3,Payment receipt,N/A,,Collection
+2189 - Call 2.mp3,Contain all information,Yes,,Collection
+2189 - Call 2.mp3,Summary structure,Yes,,Collection
+2189 - Call 2.mp3,OH1 handle,N/A,,Collection
+2189 - Call 2.mp3,OH2 handle,N/A,,Collection
+2189 - Call 2.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2189 - Call 2.mp3,Attitude,Yes,,Collection
+2189 - Call 2.mp3,Call Result,Willpay,,Collection
+2189 - Call 3.mp3,Greeting,Yes,,Collection
+2189 - Call 3.mp3,Identification of client,Yes,,Collection
+2189 - Call 3.mp3,Reason of the call,No,KB KH: Thiếu thông tin DPD;#KB KH: Thiếu số tiền cung cấp cho KH,Collection
+2189 - Call 3.mp3,Will you pay,Yes,,Collection
+2189 - Call 3.mp3,When,Yes,,Collection
+2189 - Call 3.mp3,How much,Yes,,Collection
+2189 - Call 3.mp3,Where,Yes,,Collection
+2189 - Call 3.mp3,Payment receipt,N/A,,Collection
+2189 - Call 3.mp3,Contain all information,Yes,,Collection
+2189 - Call 3.mp3,Summary structure,Yes,,Collection
+2189 - Call 3.mp3,OH1 handle,N/A,,Collection
+2189 - Call 3.mp3,OH2 handle,N/A,,Collection
+2189 - Call 3.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2189 - Call 3.mp3,Attitude,Yes,,Collection
+2189 - Call 3.mp3,Call Result,Willpay,,Collection
+2189 - Call 4.mp3,Greeting,No,Không giới thiệu tên công ty,Collection
+2189 - Call 4.mp3,Identification of client,Yes,,Collection
+2189 - Call 4.mp3,Reason of the call,Yes,,Collection
+2189 - Call 4.mp3,Will you pay,Yes,,Collection
+2189 - Call 4.mp3,When,Yes,,Collection
+2189 - Call 4.mp3,How much,Yes,,Collection
+2189 - Call 4.mp3,Where,Yes,,Collection
+2189 - Call 4.mp3,Payment receipt,N/A,,Collection
+2189 - Call 4.mp3,Contain all information,Yes,,Collection
+2189 - Call 4.mp3,Summary structure,Yes,,Collection
+2189 - Call 4.mp3,OH1 handle,N/A,,Collection
+2189 - Call 4.mp3,OH2 handle,N/A,,Collection
+2189 - Call 4.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2189 - Call 4.mp3,Attitude,Yes,,Collection
+2189 - Call 4.mp3,Call Result,Willpay,,Collection
+2189 - Call 5.mp3,Greeting,No,Không chào hỏi;#Không giới thiệu tên nhân viên;#Không giới thiệu tên công ty,Collection
+2189 - Call 5.mp3,Identification of client,Yes,,Collection
+2189 - Call 5.mp3,Reason of the call,Yes,,Collection
+2189 - Call 5.mp3,Will you pay,Yes,,Collection
+2189 - Call 5.mp3,When,Yes,,Collection
+2189 - Call 5.mp3,How much,Yes,,Collection
+2189 - Call 5.mp3,Where,No,Không lấy được thông tin kênh thanh toán theo quy định,Collection
+2189 - Call 5.mp3,Payment receipt,N/A,,Collection
+2189 - Call 5.mp3,Contain all information,Yes,,Collection
+2189 - Call 5.mp3,Summary structure,No,Không chào tạm biệt,Collection
+2189 - Call 5.mp3,OH1 handle,N/A,,Collection
+2189 - Call 5.mp3,OH2 handle,N/A,,Collection
+2189 - Call 5.mp3,Communication skill,No,"Nói quá nhanh, quá chậm, hoặc nói lầm bầm lướt từ",Collection
+2189 - Call 5.mp3,Attitude,Yes,,Collection
+2189 - Call 5.mp3,Call Result,Willpay,,Collection

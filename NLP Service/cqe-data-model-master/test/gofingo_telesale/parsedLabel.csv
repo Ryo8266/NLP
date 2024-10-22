@@ -1,0 +1,840 @@
+10_Giới thiệu sản phẩm_inb.mp3	greeting_agent	no
+10_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+10_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+10_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+10_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+10_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+10_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+10_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+10_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+10_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+10_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+10_Giới thiệu sản phẩm_inb.mp3	proactivity_period	no
+10_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+10_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+10_Chào hỏi_inb.mp3	greeting_agent	no
+10_Chào hỏi_inb.mp3	greeting_company	yes
+10_Chào hỏi_inb.mp3	greeting	yes
+10_Chào hỏi_inb.mp3	identification_of_needs	yes
+10_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+10_Chào hỏi_inb.mp3	product_presentation_amount	yes
+10_Chào hỏi_inb.mp3	product_presentation_period	yes
+10_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+10_Chào hỏi_inb.mp3	product_advantage	no
+10_Chào hỏi_inb.mp3	sell_products	no
+10_Chào hỏi_inb.mp3	proactivity_amount	yes
+10_Chào hỏi_inb.mp3	proactivity_period	yes
+10_Chào hỏi_inb.mp3	proactivity	yes
+10_Chào hỏi_inb.mp3	ending_the_conversation	yes
+10_Bán sản phẩm_inb.mp3	greeting_agent	no
+10_Bán sản phẩm_inb.mp3	greeting_company	yes
+10_Bán sản phẩm_inb.mp3	greeting	yes
+10_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+10_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+10_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+10_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+10_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+10_Bán sản phẩm_inb.mp3	product_advantage	yes
+10_Bán sản phẩm_inb.mp3	sell_products	no
+10_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+10_Bán sản phẩm_inb.mp3	proactivity_period	yes
+10_Bán sản phẩm_inb.mp3	proactivity	yes
+10_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+9_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+9_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+9_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+9_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+9_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+9_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	yes
+9_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	yes
+9_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+9_Giới thiệu sản phẩm_inb.mp3	product_advantage	no
+9_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+9_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+9_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+9_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+9_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	no
+9_Chào hỏi_inb.mp3	greeting_agent	no
+9_Chào hỏi_inb.mp3	greeting_company	yes
+9_Chào hỏi_inb.mp3	greeting	yes
+9_Chào hỏi_inb.mp3	identification_of_needs	yes
+9_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+9_Chào hỏi_inb.mp3	product_presentation_amount	yes
+9_Chào hỏi_inb.mp3	product_presentation_period	yes
+9_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+9_Chào hỏi_inb.mp3	product_advantage	yes
+9_Chào hỏi_inb.mp3	sell_products	no
+9_Chào hỏi_inb.mp3	proactivity_amount	yes
+9_Chào hỏi_inb.mp3	proactivity_period	yes
+9_Chào hỏi_inb.mp3	proactivity	yes
+9_Chào hỏi_inb.mp3	ending_the_conversation	yes
+9_Bán sản phẩm_inb.mp3	greeting_agent	no
+9_Bán sản phẩm_inb.mp3	greeting_company	yes
+9_Bán sản phẩm_inb.mp3	greeting	yes
+9_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+9_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+9_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+9_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+9_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+9_Bán sản phẩm_inb.mp3	product_advantage	yes
+9_Bán sản phẩm_inb.mp3	sell_products	no
+9_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+9_Bán sản phẩm_inb.mp3	proactivity_period	yes
+9_Bán sản phẩm_inb.mp3	proactivity	yes
+9_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+8_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+8_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+8_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+8_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+8_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+8_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+8_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+8_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+8_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+8_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+8_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+8_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+8_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+8_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+8_Bán sản phẩm_inb.mp3	greeting_agent	no
+8_Bán sản phẩm_inb.mp3	greeting_company	yes
+8_Bán sản phẩm_inb.mp3	greeting	yes
+8_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+8_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+8_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+8_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+8_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+8_Bán sản phẩm_inb.mp3	product_advantage	yes
+8_Bán sản phẩm_inb.mp3	sell_products	no
+8_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+8_Bán sản phẩm_inb.mp3	proactivity_period	yes
+8_Bán sản phẩm_inb.mp3	proactivity	yes
+8_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	greeting_agent	no
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	greeting_company	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	greeting	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	identification_of_needs	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	identification_of_needs_close_question	no
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	product_presentation_amount	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	product_presentation_period	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	product_presentation_payment_amount	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	product_advantage	no
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	sell_products	no
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	proactivity_amount	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	proactivity_period	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	proactivity	yes
+8. 386944455 -Lỗi nghiêm trọng_inb.mp3	ending_the_conversation	yes
+7_Xác định nhu cầu_inb.mp3	greeting_agent	no
+7_Xác định nhu cầu_inb.mp3	greeting_company	yes
+7_Xác định nhu cầu_inb.mp3	greeting	yes
+7_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+7_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	no
+7_Xác định nhu cầu_inb.mp3	product_presentation_amount	no
+7_Xác định nhu cầu_inb.mp3	product_presentation_period	no
+7_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	no
+7_Xác định nhu cầu_inb.mp3	product_advantage	yes
+7_Xác định nhu cầu_inb.mp3	sell_products	no
+7_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+7_Xác định nhu cầu_inb.mp3	proactivity_period	yes
+7_Xác định nhu cầu_inb.mp3	proactivity	yes
+7_Xác định nhu cầu_inb.mp3	ending_the_conversation	yes
+7_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+7_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+7_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+7_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+7_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+7_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+7_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+7_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+7_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+7_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+7_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+7_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+7_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+7_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+7_Bán sản phẩm_inb.mp3	greeting_agent	no
+7_Bán sản phẩm_inb.mp3	greeting_company	yes
+7_Bán sản phẩm_inb.mp3	greeting	yes
+7_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+7_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+7_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+7_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+7_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+7_Bán sản phẩm_inb.mp3	product_advantage	yes
+7_Bán sản phẩm_inb.mp3	sell_products	no
+7_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+7_Bán sản phẩm_inb.mp3	proactivity_period	yes
+7_Bán sản phẩm_inb.mp3	proactivity	yes
+7_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+6_Xác định nhu cầu_inb.mp3	greeting_agent	no
+6_Xác định nhu cầu_inb.mp3	greeting_company	yes
+6_Xác định nhu cầu_inb.mp3	greeting	yes
+6_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+6_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	no
+6_Xác định nhu cầu_inb.mp3	product_presentation_amount	no
+6_Xác định nhu cầu_inb.mp3	product_presentation_period	no
+6_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	no
+6_Xác định nhu cầu_inb.mp3	product_advantage	no
+6_Xác định nhu cầu_inb.mp3	sell_products	no
+6_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+6_Xác định nhu cầu_inb.mp3	proactivity_period	no
+6_Xác định nhu cầu_inb.mp3	proactivity	yes
+6_Xác định nhu cầu_inb.mp3	ending_the_conversation	no
+6_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+6_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+6_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+6_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+6_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+6_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	yes
+6_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	yes
+6_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+6_Giới thiệu sản phẩm_inb.mp3	product_advantage	no
+6_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+6_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+6_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+6_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+6_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	no
+6_Chào hỏi_inb.mp3	greeting_agent	no
+6_Chào hỏi_inb.mp3	greeting_company	yes
+6_Chào hỏi_inb.mp3	greeting	yes
+6_Chào hỏi_inb.mp3	identification_of_needs	yes
+6_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+6_Chào hỏi_inb.mp3	product_presentation_amount	yes
+6_Chào hỏi_inb.mp3	product_presentation_period	yes
+6_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+6_Chào hỏi_inb.mp3	product_advantage	yes
+6_Chào hỏi_inb.mp3	sell_products	no
+6_Chào hỏi_inb.mp3	proactivity_amount	yes
+6_Chào hỏi_inb.mp3	proactivity_period	yes
+6_Chào hỏi_inb.mp3	proactivity	yes
+6_Chào hỏi_inb.mp3	ending_the_conversation	yes
+6_Bán sản phẩm_inb.mp3	greeting_agent	no
+6_Bán sản phẩm_inb.mp3	greeting_company	yes
+6_Bán sản phẩm_inb.mp3	greeting	yes
+6_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+6_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+6_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+6_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+6_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+6_Bán sản phẩm_inb.mp3	product_advantage	yes
+6_Bán sản phẩm_inb.mp3	sell_products	no
+6_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+6_Bán sản phẩm_inb.mp3	proactivity_period	yes
+6_Bán sản phẩm_inb.mp3	proactivity	yes
+6_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	greeting_agent	no
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	greeting_company	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	greeting	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	identification_of_needs	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	identification_of_needs_close_question	no
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	product_presentation_amount	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	product_presentation_period	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	product_presentation_payment_amount	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	product_advantage	no
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	sell_products	no
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	proactivity_amount	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	proactivity_period	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	proactivity	yes
+6. 382193838 - Chưa bán được sản phẩm, ưu điểm, XLTC (1)_inb.mp3	ending_the_conversation	yes
+5_Xác định nhu cầu_inb.mp3	greeting_agent	no
+5_Xác định nhu cầu_inb.mp3	greeting_company	yes
+5_Xác định nhu cầu_inb.mp3	greeting	yes
+5_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+5_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	yes
+5_Xác định nhu cầu_inb.mp3	product_presentation_amount	yes
+5_Xác định nhu cầu_inb.mp3	product_presentation_period	yes
+5_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	yes
+5_Xác định nhu cầu_inb.mp3	product_advantage	no
+5_Xác định nhu cầu_inb.mp3	sell_products	no
+5_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+5_Xác định nhu cầu_inb.mp3	proactivity_period	yes
+5_Xác định nhu cầu_inb.mp3	proactivity	yes
+5_Xác định nhu cầu_inb.mp3	ending_the_conversation	no
+5_Tính chủ động_inb.mp3	greeting_agent	yes
+5_Tính chủ động_inb.mp3	greeting_company	yes
+5_Tính chủ động_inb.mp3	greeting	yes
+5_Tính chủ động_inb.mp3	identification_of_needs	yes
+5_Tính chủ động_inb.mp3	identification_of_needs_close_question	no
+5_Tính chủ động_inb.mp3	product_presentation_amount	yes
+5_Tính chủ động_inb.mp3	product_presentation_period	yes
+5_Tính chủ động_inb.mp3	product_presentation_payment_amount	yes
+5_Tính chủ động_inb.mp3	product_advantage	yes
+5_Tính chủ động_inb.mp3	sell_products	no
+5_Tính chủ động_inb.mp3	proactivity_amount	yes
+5_Tính chủ động_inb.mp3	proactivity_period	yes
+5_Tính chủ động_inb.mp3	proactivity	yes
+5_Tính chủ động_inb.mp3	ending_the_conversation	yes
+5_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+5_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+5_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+5_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+5_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+5_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	yes
+5_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	yes
+5_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+5_Giới thiệu sản phẩm_inb.mp3	product_advantage	no
+5_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+5_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+5_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+5_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+5_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+5_Giải quyết từ chối_inb.mp3	greeting_agent	no
+5_Giải quyết từ chối_inb.mp3	greeting_company	yes
+5_Giải quyết từ chối_inb.mp3	greeting	yes
+5_Giải quyết từ chối_inb.mp3	identification_of_needs	yes
+5_Giải quyết từ chối_inb.mp3	identification_of_needs_close_question	no
+5_Giải quyết từ chối_inb.mp3	product_presentation_amount	yes
+5_Giải quyết từ chối_inb.mp3	product_presentation_period	yes
+5_Giải quyết từ chối_inb.mp3	product_presentation_payment_amount	yes
+5_Giải quyết từ chối_inb.mp3	product_advantage	no
+5_Giải quyết từ chối_inb.mp3	sell_products	no
+5_Giải quyết từ chối_inb.mp3	proactivity_amount	yes
+5_Giải quyết từ chối_inb.mp3	proactivity_period	yes
+5_Giải quyết từ chối_inb.mp3	proactivity	yes
+5_Giải quyết từ chối_inb.mp3	ending_the_conversation	yes
+5_Chào hỏi_inb.mp3	greeting_agent	yes
+5_Chào hỏi_inb.mp3	greeting_company	yes
+5_Chào hỏi_inb.mp3	greeting	no
+5_Chào hỏi_inb.mp3	identification_of_needs	yes
+5_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+5_Chào hỏi_inb.mp3	product_presentation_amount	yes
+5_Chào hỏi_inb.mp3	product_presentation_period	yes
+5_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+5_Chào hỏi_inb.mp3	product_advantage	yes
+5_Chào hỏi_inb.mp3	sell_products	yes
+5_Chào hỏi_inb.mp3	proactivity_amount	yes
+5_Chào hỏi_inb.mp3	proactivity_period	yes
+5_Chào hỏi_inb.mp3	proactivity	yes
+5_Chào hỏi_inb.mp3	ending_the_conversation	yes
+5_Bán sản phẩm_inb.mp3	greeting_agent	yes
+5_Bán sản phẩm_inb.mp3	greeting_company	yes
+5_Bán sản phẩm_inb.mp3	greeting	yes
+5_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+5_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+5_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+5_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+5_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+5_Bán sản phẩm_inb.mp3	product_advantage	yes
+5_Bán sản phẩm_inb.mp3	sell_products	no
+5_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+5_Bán sản phẩm_inb.mp3	proactivity_period	yes
+5_Bán sản phẩm_inb.mp3	proactivity	yes
+5_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	greeting_agent	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	greeting_company	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	greeting	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	identification_of_needs	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	identification_of_needs_close_question	no
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	product_presentation_amount	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	product_presentation_period	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	product_presentation_payment_amount	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	product_advantage	no
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	sell_products	no
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	proactivity_amount	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	proactivity_period	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	proactivity	yes
+5. 356419838 - Chưa bán được sản phẩm, thiếu ưu điểm (1)_inb.mp3	ending_the_conversation	no
+4_Tính chủ động_inb.mp3	greeting_agent	no
+4_Tính chủ động_inb.mp3	greeting_company	yes
+4_Tính chủ động_inb.mp3	greeting	yes
+4_Tính chủ động_inb.mp3	identification_of_needs	yes
+4_Tính chủ động_inb.mp3	identification_of_needs_close_question	no
+4_Tính chủ động_inb.mp3	product_presentation_amount	no
+4_Tính chủ động_inb.mp3	product_presentation_period	no
+4_Tính chủ động_inb.mp3	product_presentation_payment_amount	no
+4_Tính chủ động_inb.mp3	product_advantage	yes
+4_Tính chủ động_inb.mp3	sell_products	no
+4_Tính chủ động_inb.mp3	proactivity_amount	no
+4_Tính chủ động_inb.mp3	proactivity_period	yes
+4_Tính chủ động_inb.mp3	proactivity	yes
+4_Tính chủ động_inb.mp3	ending_the_conversation	yes
+4_Kiểm soát cảm xúc_inb.mp3	greeting_agent	yes
+4_Kiểm soát cảm xúc_inb.mp3	greeting_company	yes
+4_Kiểm soát cảm xúc_inb.mp3	greeting	yes
+4_Kiểm soát cảm xúc_inb.mp3	identification_of_needs	yes
+4_Kiểm soát cảm xúc_inb.mp3	identification_of_needs_close_question	no
+4_Kiểm soát cảm xúc_inb.mp3	product_presentation_amount	yes
+4_Kiểm soát cảm xúc_inb.mp3	product_presentation_period	yes
+4_Kiểm soát cảm xúc_inb.mp3	product_presentation_payment_amount	yes
+4_Kiểm soát cảm xúc_inb.mp3	product_advantage	yes
+4_Kiểm soát cảm xúc_inb.mp3	sell_products	no
+4_Kiểm soát cảm xúc_inb.mp3	proactivity_amount	yes
+4_Kiểm soát cảm xúc_inb.mp3	proactivity_period	yes
+4_Kiểm soát cảm xúc_inb.mp3	proactivity	yes
+4_Kiểm soát cảm xúc_inb.mp3	ending_the_conversation	no
+4_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+4_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+4_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+4_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+4_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+4_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+4_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+4_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+4_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+4_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+4_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+4_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+4_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+4_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+4_Giải quyết từ chối_inb.mp3	greeting_agent	yes
+4_Giải quyết từ chối_inb.mp3	greeting_company	yes
+4_Giải quyết từ chối_inb.mp3	greeting	yes
+4_Giải quyết từ chối_inb.mp3	identification_of_needs	yes
+4_Giải quyết từ chối_inb.mp3	identification_of_needs_close_question	no
+4_Giải quyết từ chối_inb.mp3	product_presentation_amount	no
+4_Giải quyết từ chối_inb.mp3	product_presentation_period	no
+4_Giải quyết từ chối_inb.mp3	product_presentation_payment_amount	no
+4_Giải quyết từ chối_inb.mp3	product_advantage	yes
+4_Giải quyết từ chối_inb.mp3	sell_products	no
+4_Giải quyết từ chối_inb.mp3	proactivity_amount	yes
+4_Giải quyết từ chối_inb.mp3	proactivity_period	yes
+4_Giải quyết từ chối_inb.mp3	proactivity	yes
+4_Giải quyết từ chối_inb.mp3	ending_the_conversation	yes
+4_Chào hỏi_inb.mp3	greeting_agent	no
+4_Chào hỏi_inb.mp3	greeting_company	yes
+4_Chào hỏi_inb.mp3	greeting	yes
+4_Chào hỏi_inb.mp3	identification_of_needs	yes
+4_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+4_Chào hỏi_inb.mp3	product_presentation_amount	yes
+4_Chào hỏi_inb.mp3	product_presentation_period	yes
+4_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+4_Chào hỏi_inb.mp3	product_advantage	yes
+4_Chào hỏi_inb.mp3	sell_products	yes
+4_Chào hỏi_inb.mp3	proactivity_amount	yes
+4_Chào hỏi_inb.mp3	proactivity_period	yes
+4_Chào hỏi_inb.mp3	proactivity	yes
+4_Chào hỏi_inb.mp3	ending_the_conversation	yes
+4_Bán sản phẩm_inb.mp3	greeting_agent	yes
+4_Bán sản phẩm_inb.mp3	greeting_company	yes
+4_Bán sản phẩm_inb.mp3	greeting	yes
+4_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+4_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+4_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+4_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+4_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+4_Bán sản phẩm_inb.mp3	product_advantage	no
+4_Bán sản phẩm_inb.mp3	sell_products	no
+4_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+4_Bán sản phẩm_inb.mp3	proactivity_period	yes
+4_Bán sản phẩm_inb.mp3	proactivity	yes
+4_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	greeting_agent	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	greeting_company	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	greeting	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	identification_of_needs	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	identification_of_needs_close_question	no
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	product_presentation_amount	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	product_presentation_period	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	product_presentation_payment_amount	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	product_advantage	no
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	sell_products	no
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	proactivity_amount	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	proactivity_period	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	proactivity	yes
+4. 985582818 - Chưa bán được sản phẩm, ưu điểm, XLTC_inb.mp3	ending_the_conversation	yes
+3_Xác định nhu cầu_inb.mp3	greeting_agent	no
+3_Xác định nhu cầu_inb.mp3	greeting_company	yes
+3_Xác định nhu cầu_inb.mp3	greeting	yes
+3_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+3_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	yes
+3_Xác định nhu cầu_inb.mp3	product_presentation_amount	yes
+3_Xác định nhu cầu_inb.mp3	product_presentation_period	yes
+3_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	yes
+3_Xác định nhu cầu_inb.mp3	product_advantage	yes
+3_Xác định nhu cầu_inb.mp3	sell_products	no
+3_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+3_Xác định nhu cầu_inb.mp3	proactivity_period	yes
+3_Xác định nhu cầu_inb.mp3	proactivity	yes
+3_Xác định nhu cầu_inb.mp3	ending_the_conversation	yes
+3_Tính chủ động_inb.mp3	greeting_agent	yes
+3_Tính chủ động_inb.mp3	greeting_company	yes
+3_Tính chủ động_inb.mp3	greeting	yes
+3_Tính chủ động_inb.mp3	identification_of_needs	yes
+3_Tính chủ động_inb.mp3	identification_of_needs_close_question	no
+3_Tính chủ động_inb.mp3	product_presentation_amount	yes
+3_Tính chủ động_inb.mp3	product_presentation_period	yes
+3_Tính chủ động_inb.mp3	product_presentation_payment_amount	yes
+3_Tính chủ động_inb.mp3	product_advantage	yes
+3_Tính chủ động_inb.mp3	sell_products	no
+3_Tính chủ động_inb.mp3	proactivity_amount	yes
+3_Tính chủ động_inb.mp3	proactivity_period	yes
+3_Tính chủ động_inb.mp3	proactivity	yes
+3_Tính chủ động_inb.mp3	ending_the_conversation	yes
+3_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+3_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+3_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+3_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+3_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+3_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	yes
+3_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	yes
+3_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+3_Giới thiệu sản phẩm_inb.mp3	product_advantage	no
+3_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+3_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+3_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+3_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+3_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+3_Giải quyết từ chối_inb.mp3	greeting_agent	yes
+3_Giải quyết từ chối_inb.mp3	greeting_company	yes
+3_Giải quyết từ chối_inb.mp3	greeting	yes
+3_Giải quyết từ chối_inb.mp3	identification_of_needs	yes
+3_Giải quyết từ chối_inb.mp3	identification_of_needs_close_question	no
+3_Giải quyết từ chối_inb.mp3	product_presentation_amount	yes
+3_Giải quyết từ chối_inb.mp3	product_presentation_period	yes
+3_Giải quyết từ chối_inb.mp3	product_presentation_payment_amount	yes
+3_Giải quyết từ chối_inb.mp3	product_advantage	yes
+3_Giải quyết từ chối_inb.mp3	sell_products	no
+3_Giải quyết từ chối_inb.mp3	proactivity_amount	yes
+3_Giải quyết từ chối_inb.mp3	proactivity_period	yes
+3_Giải quyết từ chối_inb.mp3	proactivity	yes
+3_Giải quyết từ chối_inb.mp3	ending_the_conversation	yes
+3_Bán sản phẩm_inb.mp3	greeting_agent	yes
+3_Bán sản phẩm_inb.mp3	greeting_company	yes
+3_Bán sản phẩm_inb.mp3	greeting	yes
+3_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+3_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+3_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+3_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+3_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+3_Bán sản phẩm_inb.mp3	product_advantage	yes
+3_Bán sản phẩm_inb.mp3	sell_products	no
+3_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+3_Bán sản phẩm_inb.mp3	proactivity_period	yes
+3_Bán sản phẩm_inb.mp3	proactivity	yes
+3_Bán sản phẩm_inb.mp3	ending_the_conversation	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	greeting_agent	no
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	greeting_company	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	greeting	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	identification_of_needs	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	identification_of_needs_close_question	no
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	product_presentation_amount	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	product_presentation_period	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	product_presentation_payment_amount	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	product_advantage	no
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	sell_products	no
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	proactivity_amount	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	proactivity_period	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	proactivity	yes
+3. 989949330 - Chưa bán được sản phẩm , ưu điểm, XLTC_inb.mp3	ending_the_conversation	yes
+2_Xác định nhu cầu_inb.mp3	greeting_agent	yes
+2_Xác định nhu cầu_inb.mp3	greeting_company	yes
+2_Xác định nhu cầu_inb.mp3	greeting	yes
+2_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+2_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	no
+2_Xác định nhu cầu_inb.mp3	product_presentation_amount	yes
+2_Xác định nhu cầu_inb.mp3	product_presentation_period	yes
+2_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	yes
+2_Xác định nhu cầu_inb.mp3	product_advantage	yes
+2_Xác định nhu cầu_inb.mp3	sell_products	no
+2_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+2_Xác định nhu cầu_inb.mp3	proactivity_period	yes
+2_Xác định nhu cầu_inb.mp3	proactivity	yes
+2_Xác định nhu cầu_inb.mp3	ending_the_conversation	no
+2_Tính chủ động_inb.mp3	greeting_agent	no
+2_Tính chủ động_inb.mp3	greeting_company	yes
+2_Tính chủ động_inb.mp3	greeting	yes
+2_Tính chủ động_inb.mp3	identification_of_needs	yes
+2_Tính chủ động_inb.mp3	identification_of_needs_close_question	no
+2_Tính chủ động_inb.mp3	product_presentation_amount	yes
+2_Tính chủ động_inb.mp3	product_presentation_period	yes
+2_Tính chủ động_inb.mp3	product_presentation_payment_amount	yes
+2_Tính chủ động_inb.mp3	product_advantage	no
+2_Tính chủ động_inb.mp3	sell_products	no
+2_Tính chủ động_inb.mp3	proactivity_amount	yes
+2_Tính chủ động_inb.mp3	proactivity_period	yes
+2_Tính chủ động_inb.mp3	proactivity	yes
+2_Tính chủ động_inb.mp3	ending_the_conversation	yes
+2_Kiểm soát cảm xúc_inb.mp3	greeting_agent	yes
+2_Kiểm soát cảm xúc_inb.mp3	greeting_company	yes
+2_Kiểm soát cảm xúc_inb.mp3	greeting	yes
+2_Kiểm soát cảm xúc_inb.mp3	identification_of_needs	yes
+2_Kiểm soát cảm xúc_inb.mp3	identification_of_needs_close_question	no
+2_Kiểm soát cảm xúc_inb.mp3	product_presentation_amount	yes
+2_Kiểm soát cảm xúc_inb.mp3	product_presentation_period	yes
+2_Kiểm soát cảm xúc_inb.mp3	product_presentation_payment_amount	yes
+2_Kiểm soát cảm xúc_inb.mp3	product_advantage	yes
+2_Kiểm soát cảm xúc_inb.mp3	sell_products	no
+2_Kiểm soát cảm xúc_inb.mp3	proactivity_amount	yes
+2_Kiểm soát cảm xúc_inb.mp3	proactivity_period	yes
+2_Kiểm soát cảm xúc_inb.mp3	proactivity	yes
+2_Kiểm soát cảm xúc_inb.mp3	ending_the_conversation	no
+2_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+2_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+2_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+2_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+2_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+2_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+2_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+2_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+2_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+2_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+2_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+2_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+2_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+2_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+2_Giải quyết từ chối_inb.mp3	greeting_agent	yes
+2_Giải quyết từ chối_inb.mp3	greeting_company	yes
+2_Giải quyết từ chối_inb.mp3	greeting	yes
+2_Giải quyết từ chối_inb.mp3	identification_of_needs	yes
+2_Giải quyết từ chối_inb.mp3	identification_of_needs_close_question	no
+2_Giải quyết từ chối_inb.mp3	product_presentation_amount	yes
+2_Giải quyết từ chối_inb.mp3	product_presentation_period	yes
+2_Giải quyết từ chối_inb.mp3	product_presentation_payment_amount	yes
+2_Giải quyết từ chối_inb.mp3	product_advantage	yes
+2_Giải quyết từ chối_inb.mp3	sell_products	no
+2_Giải quyết từ chối_inb.mp3	proactivity_amount	yes
+2_Giải quyết từ chối_inb.mp3	proactivity_period	yes
+2_Giải quyết từ chối_inb.mp3	proactivity	yes
+2_Giải quyết từ chối_inb.mp3	ending_the_conversation	yes
+2_Chào hỏi_inb.mp3	greeting_agent	no
+2_Chào hỏi_inb.mp3	greeting_company	yes
+2_Chào hỏi_inb.mp3	greeting	yes
+2_Chào hỏi_inb.mp3	identification_of_needs	yes
+2_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+2_Chào hỏi_inb.mp3	product_presentation_amount	yes
+2_Chào hỏi_inb.mp3	product_presentation_period	yes
+2_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+2_Chào hỏi_inb.mp3	product_advantage	yes
+2_Chào hỏi_inb.mp3	sell_products	no
+2_Chào hỏi_inb.mp3	proactivity_amount	yes
+2_Chào hỏi_inb.mp3	proactivity_period	yes
+2_Chào hỏi_inb.mp3	proactivity	yes
+2_Chào hỏi_inb.mp3	ending_the_conversation	no
+2_Bán sản phẩm_inb.mp3	greeting_agent	yes
+2_Bán sản phẩm_inb.mp3	greeting_company	yes
+2_Bán sản phẩm_inb.mp3	greeting	yes
+2_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+2_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+2_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+2_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+2_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+2_Bán sản phẩm_inb.mp3	product_advantage	yes
+2_Bán sản phẩm_inb.mp3	sell_products	no
+2_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+2_Bán sản phẩm_inb.mp3	proactivity_period	yes
+2_Bán sản phẩm_inb.mp3	proactivity	yes
+2_Bán sản phẩm_inb.mp3	ending_the_conversation	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	greeting_agent	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	greeting_company	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	greeting	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	identification_of_needs	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	identification_of_needs_close_question	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	product_presentation_amount	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	product_presentation_period	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	product_presentation_payment_amount	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	product_advantage	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	sell_products	no
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	proactivity_amount	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	proactivity_period	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	proactivity	yes
+2. 868007882 - Chưa bán được sp, thông tin kv, XLTC_inb.mp3	ending_the_conversation	no
+1_Xác định nhu cầu_inb.mp3	greeting_agent	yes
+1_Xác định nhu cầu_inb.mp3	greeting_company	yes
+1_Xác định nhu cầu_inb.mp3	greeting	no
+1_Xác định nhu cầu_inb.mp3	identification_of_needs	yes
+1_Xác định nhu cầu_inb.mp3	identification_of_needs_close_question	yes
+1_Xác định nhu cầu_inb.mp3	product_presentation_amount	no
+1_Xác định nhu cầu_inb.mp3	product_presentation_period	no
+1_Xác định nhu cầu_inb.mp3	product_presentation_payment_amount	no
+1_Xác định nhu cầu_inb.mp3	product_advantage	yes
+1_Xác định nhu cầu_inb.mp3	sell_products	no
+1_Xác định nhu cầu_inb.mp3	proactivity_amount	yes
+1_Xác định nhu cầu_inb.mp3	proactivity_period	yes
+1_Xác định nhu cầu_inb.mp3	proactivity	yes
+1_Xác định nhu cầu_inb.mp3	ending_the_conversation	yes
+1_Tính chủ động_inb.mp3	greeting_agent	yes
+1_Tính chủ động_inb.mp3	greeting_company	yes
+1_Tính chủ động_inb.mp3	greeting	yes
+1_Tính chủ động_inb.mp3	identification_of_needs	yes
+1_Tính chủ động_inb.mp3	identification_of_needs_close_question	no
+1_Tính chủ động_inb.mp3	product_presentation_amount	yes
+1_Tính chủ động_inb.mp3	product_presentation_period	yes
+1_Tính chủ động_inb.mp3	product_presentation_payment_amount	yes
+1_Tính chủ động_inb.mp3	product_advantage	yes
+1_Tính chủ động_inb.mp3	sell_products	yes
+1_Tính chủ động_inb.mp3	proactivity_amount	yes
+1_Tính chủ động_inb.mp3	proactivity_period	yes
+1_Tính chủ động_inb.mp3	proactivity	yes
+1_Tính chủ động_inb.mp3	ending_the_conversation	yes
+1_Lắng nghe tích cực_inb.mp3	greeting_agent	yes
+1_Lắng nghe tích cực_inb.mp3	greeting_company	yes
+1_Lắng nghe tích cực_inb.mp3	greeting	no
+1_Lắng nghe tích cực_inb.mp3	identification_of_needs	yes
+1_Lắng nghe tích cực_inb.mp3	identification_of_needs_close_question	no
+1_Lắng nghe tích cực_inb.mp3	product_presentation_amount	yes
+1_Lắng nghe tích cực_inb.mp3	product_presentation_period	yes
+1_Lắng nghe tích cực_inb.mp3	product_presentation_payment_amount	yes
+1_Lắng nghe tích cực_inb.mp3	product_advantage	no
+1_Lắng nghe tích cực_inb.mp3	sell_products	no
+1_Lắng nghe tích cực_inb.mp3	proactivity_amount	yes
+1_Lắng nghe tích cực_inb.mp3	proactivity_period	yes
+1_Lắng nghe tích cực_inb.mp3	proactivity	yes
+1_Lắng nghe tích cực_inb.mp3	ending_the_conversation	no
+1_Kiểm soát cảm xúc_inb.mp3	greeting_agent	yes
+1_Kiểm soát cảm xúc_inb.mp3	greeting_company	yes
+1_Kiểm soát cảm xúc_inb.mp3	greeting	no
+1_Kiểm soát cảm xúc_inb.mp3	identification_of_needs	yes
+1_Kiểm soát cảm xúc_inb.mp3	identification_of_needs_close_question	no
+1_Kiểm soát cảm xúc_inb.mp3	product_presentation_amount	yes
+1_Kiểm soát cảm xúc_inb.mp3	product_presentation_period	yes
+1_Kiểm soát cảm xúc_inb.mp3	product_presentation_payment_amount	yes
+1_Kiểm soát cảm xúc_inb.mp3	product_advantage	no
+1_Kiểm soát cảm xúc_inb.mp3	sell_products	no
+1_Kiểm soát cảm xúc_inb.mp3	proactivity_amount	yes
+1_Kiểm soát cảm xúc_inb.mp3	proactivity_period	yes
+1_Kiểm soát cảm xúc_inb.mp3	proactivity	yes
+1_Kiểm soát cảm xúc_inb.mp3	ending_the_conversation	no
+1_Kết thúc cuộc gọi_inb.mp3	greeting_agent	no
+1_Kết thúc cuộc gọi_inb.mp3	greeting_company	yes
+1_Kết thúc cuộc gọi_inb.mp3	greeting	yes
+1_Kết thúc cuộc gọi_inb.mp3	identification_of_needs	yes
+1_Kết thúc cuộc gọi_inb.mp3	identification_of_needs_close_question	no
+1_Kết thúc cuộc gọi_inb.mp3	product_presentation_amount	yes
+1_Kết thúc cuộc gọi_inb.mp3	product_presentation_period	yes
+1_Kết thúc cuộc gọi_inb.mp3	product_presentation_payment_amount	yes
+1_Kết thúc cuộc gọi_inb.mp3	product_advantage	yes
+1_Kết thúc cuộc gọi_inb.mp3	sell_products	no
+1_Kết thúc cuộc gọi_inb.mp3	proactivity_amount	yes
+1_Kết thúc cuộc gọi_inb.mp3	proactivity_period	yes
+1_Kết thúc cuộc gọi_inb.mp3	proactivity	yes
+1_Kết thúc cuộc gọi_inb.mp3	ending_the_conversation	no
+1_Giới thiệu sản phẩm_inb.mp3	greeting_agent	yes
+1_Giới thiệu sản phẩm_inb.mp3	greeting_company	yes
+1_Giới thiệu sản phẩm_inb.mp3	greeting	yes
+1_Giới thiệu sản phẩm_inb.mp3	identification_of_needs	yes
+1_Giới thiệu sản phẩm_inb.mp3	identification_of_needs_close_question	no
+1_Giới thiệu sản phẩm_inb.mp3	product_presentation_amount	no
+1_Giới thiệu sản phẩm_inb.mp3	product_presentation_period	no
+1_Giới thiệu sản phẩm_inb.mp3	product_presentation_payment_amount	no
+1_Giới thiệu sản phẩm_inb.mp3	product_advantage	yes
+1_Giới thiệu sản phẩm_inb.mp3	sell_products	no
+1_Giới thiệu sản phẩm_inb.mp3	proactivity_amount	yes
+1_Giới thiệu sản phẩm_inb.mp3	proactivity_period	yes
+1_Giới thiệu sản phẩm_inb.mp3	proactivity	yes
+1_Giới thiệu sản phẩm_inb.mp3	ending_the_conversation	yes
+1_Giải quyết từ chối_inb.mp3	greeting_agent	no
+1_Giải quyết từ chối_inb.mp3	greeting_company	yes
+1_Giải quyết từ chối_inb.mp3	greeting	yes
+1_Giải quyết từ chối_inb.mp3	identification_of_needs	yes
+1_Giải quyết từ chối_inb.mp3	identification_of_needs_close_question	no
+1_Giải quyết từ chối_inb.mp3	product_presentation_amount	yes
+1_Giải quyết từ chối_inb.mp3	product_presentation_period	yes
+1_Giải quyết từ chối_inb.mp3	product_presentation_payment_amount	yes
+1_Giải quyết từ chối_inb.mp3	product_advantage	yes
+1_Giải quyết từ chối_inb.mp3	sell_products	no
+1_Giải quyết từ chối_inb.mp3	proactivity_amount	yes
+1_Giải quyết từ chối_inb.mp3	proactivity_period	yes
+1_Giải quyết từ chối_inb.mp3	proactivity	yes
+1_Giải quyết từ chối_inb.mp3	ending_the_conversation	yes
+1_Chào hỏi_inb.mp3	greeting_agent	no
+1_Chào hỏi_inb.mp3	greeting_company	yes
+1_Chào hỏi_inb.mp3	greeting	yes
+1_Chào hỏi_inb.mp3	identification_of_needs	yes
+1_Chào hỏi_inb.mp3	identification_of_needs_close_question	no
+1_Chào hỏi_inb.mp3	product_presentation_amount	yes
+1_Chào hỏi_inb.mp3	product_presentation_period	yes
+1_Chào hỏi_inb.mp3	product_presentation_payment_amount	yes
+1_Chào hỏi_inb.mp3	product_advantage	yes
+1_Chào hỏi_inb.mp3	sell_products	no
+1_Chào hỏi_inb.mp3	proactivity_amount	yes
+1_Chào hỏi_inb.mp3	proactivity_period	yes
+1_Chào hỏi_inb.mp3	proactivity	yes
+1_Chào hỏi_inb.mp3	ending_the_conversation	no
+1_Bán sản phẩm_inb.mp3	greeting_agent	yes
+1_Bán sản phẩm_inb.mp3	greeting_company	yes
+1_Bán sản phẩm_inb.mp3	greeting	yes
+1_Bán sản phẩm_inb.mp3	identification_of_needs	yes
+1_Bán sản phẩm_inb.mp3	identification_of_needs_close_question	no
+1_Bán sản phẩm_inb.mp3	product_presentation_amount	yes
+1_Bán sản phẩm_inb.mp3	product_presentation_period	yes
+1_Bán sản phẩm_inb.mp3	product_presentation_payment_amount	yes
+1_Bán sản phẩm_inb.mp3	product_advantage	no
+1_Bán sản phẩm_inb.mp3	sell_products	no
+1_Bán sản phẩm_inb.mp3	proactivity_amount	yes
+1_Bán sản phẩm_inb.mp3	proactivity_period	yes
+1_Bán sản phẩm_inb.mp3	proactivity	yes
+1_Bán sản phẩm_inb.mp3	ending_the_conversation	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	greeting_agent	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	greeting_company	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	greeting	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	identification_of_needs	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	identification_of_needs_close_question	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	product_presentation_amount	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	product_presentation_period	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	product_presentation_payment_amount	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	product_advantage	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	sell_products	no
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	proactivity_amount	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	proactivity_period	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	proactivity	yes
+1. 886655533 - Chưa bán được sp, thiếu thông tin khoản vay, XLTC sơ sài_inb.mp3	ending_the_conversation	yes
+8_Chào hỏi.mp3	greeting_agent	no
+8_Chào hỏi.mp3	greeting_company	yes
+8_Chào hỏi.mp3	greeting	yes
+8_Chào hỏi.mp3	identification_of_needs	yes
+8_Chào hỏi.mp3	identification_of_needs_close_question	no
+8_Chào hỏi.mp3	product_presentation_amount	yes
+8_Chào hỏi.mp3	product_presentation_period	yes
+8_Chào hỏi.mp3	product_presentation_payment_amount	yes
+8_Chào hỏi.mp3	product_advantage	no
+8_Chào hỏi.mp3	sell_products	no
+8_Chào hỏi.mp3	proactivity_amount	yes
+8_Chào hỏi.mp3	proactivity_period	yes
+8_Chào hỏi.mp3	proactivity	yes
+8_Chào hỏi.mp3	ending_the_conversation	yes
+7_Chào hỏi.mp3	greeting_agent	no
+7_Chào hỏi.mp3	greeting_company	yes
+7_Chào hỏi.mp3	greeting	yes
+7_Chào hỏi.mp3	identification_of_needs	yes
+7_Chào hỏi.mp3	identification_of_needs_close_question	no
+7_Chào hỏi.mp3	product_presentation_amount	yes
+7_Chào hỏi.mp3	product_presentation_period	yes
+7_Chào hỏi.mp3	product_presentation_payment_amount	yes
+7_Chào hỏi.mp3	product_advantage	yes
+7_Chào hỏi.mp3	sell_products	no
+7_Chào hỏi.mp3	proactivity_amount	yes
+7_Chào hỏi.mp3	proactivity_period	yes
+7_Chào hỏi.mp3	proactivity	yes
+7_Chào hỏi.mp3	ending_the_conversation	no
+4_Xác định nhu cầu.mp3	greeting_agent	no
+4_Xác định nhu cầu.mp3	greeting_company	yes
+4_Xác định nhu cầu.mp3	greeting	yes
+4_Xác định nhu cầu.mp3	identification_of_needs	yes
+4_Xác định nhu cầu.mp3	identification_of_needs_close_question	yes
+4_Xác định nhu cầu.mp3	product_presentation_amount	yes
+4_Xác định nhu cầu.mp3	product_presentation_period	yes
+4_Xác định nhu cầu.mp3	product_presentation_payment_amount	yes
+4_Xác định nhu cầu.mp3	product_advantage	no
+4_Xác định nhu cầu.mp3	sell_products	no
+4_Xác định nhu cầu.mp3	proactivity_amount	yes
+4_Xác định nhu cầu.mp3	proactivity_period	yes
+4_Xác định nhu cầu.mp3	proactivity	yes
+4_Xác định nhu cầu.mp3	ending_the_conversation	no
+3_Kiểm soát cảm xúc.mp3	greeting_agent	no
+3_Kiểm soát cảm xúc.mp3	greeting_company	yes
+3_Kiểm soát cảm xúc.mp3	greeting	yes
+3_Kiểm soát cảm xúc.mp3	identification_of_needs	yes
+3_Kiểm soát cảm xúc.mp3	identification_of_needs_close_question	no
+3_Kiểm soát cảm xúc.mp3	product_presentation_amount	yes
+3_Kiểm soát cảm xúc.mp3	product_presentation_period	yes
+3_Kiểm soát cảm xúc.mp3	product_presentation_payment_amount	yes
+3_Kiểm soát cảm xúc.mp3	product_advantage	yes
+3_Kiểm soát cảm xúc.mp3	sell_products	no
+3_Kiểm soát cảm xúc.mp3	proactivity_amount	yes
+3_Kiểm soát cảm xúc.mp3	proactivity_period	yes
+3_Kiểm soát cảm xúc.mp3	proactivity	yes
+3_Kiểm soát cảm xúc.mp3	ending_the_conversation	no
+3_Chào hỏi.mp3	greeting_agent	no
+3_Chào hỏi.mp3	greeting_company	yes
+3_Chào hỏi.mp3	greeting	yes
+3_Chào hỏi.mp3	identification_of_needs	yes
+3_Chào hỏi.mp3	identification_of_needs_close_question	no
+3_Chào hỏi.mp3	product_presentation_amount	yes
+3_Chào hỏi.mp3	product_presentation_period	yes
+3_Chào hỏi.mp3	product_presentation_payment_amount	yes
+3_Chào hỏi.mp3	product_advantage	yes
+3_Chào hỏi.mp3	sell_products	yes
+3_Chào hỏi.mp3	proactivity_amount	yes
+3_Chào hỏi.mp3	proactivity_period	yes
+3_Chào hỏi.mp3	proactivity	yes
+3_Chào hỏi.mp3	ending_the_conversation	yes

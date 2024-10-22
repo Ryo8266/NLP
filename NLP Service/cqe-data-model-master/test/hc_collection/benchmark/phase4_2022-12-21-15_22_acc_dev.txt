@@ -1,0 +1,16 @@
+greet: 0.932
+agentIntroduce: 0.827
+companyName: 0.992
+confirmCustomer: 0.97
+informAmount: 0.977
+informOverdue: 0.947
+requestPayment: 0.925
+askPaymentDatetime: 0.872
+askPaymentAmount: 0.91
+askPaymentMethod: 0.865
+askPaymentReceipt: 0.962
+goodbye: 0.992
+thank: 0.985
+callResult: 0.955
+Summary score:  0.8045112781954887
+OH score:  0.7293233082706767
